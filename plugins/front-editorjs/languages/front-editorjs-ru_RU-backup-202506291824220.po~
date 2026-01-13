@@ -1,0 +1,145 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WP FRONTEND PUBLISH EDITOR\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-03-28 17:58+0000\n"
+"PO-Revision-Date: 2021-03-28 18:49+0000\n"
+"Last-Translator: Александр Лид\n"
+"Language-Team: Русский\n"
+"Language: ru_RU\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10 >= 2 && "
+"n%10<=4 &&(n%100<10||n%100 >= 20)? 1 : 2);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.5.2; wp-5.5.3\n"
+"X-Domain: alshc-frontent-editor"
+
+#. Author of the plugin
+msgid "Alexander Lead"
+msgstr "Alexander Lead"
+
+#: admin/alshc_user_setting.php:55
+msgid ""
+"ATTENTION! If user`s role has not a capability to edit to others posts, the "
+"user can not edit other posts too."
+msgstr ""
+"ВНИМАНИЕ! Если роль пользователя не позволяет редактировать чужие посты, то "
+"Фронтенд редактор также не позволит ему редактирование чужих постов."
+
+#: admin/alshc_user_setting.php:20
+msgid "Create a page for Frontend Editor."
+msgstr "Создать страницу для Фронтенд редактора"
+
+#: alshc_frontend_edit.php:159
+msgid "Edit"
+msgstr "Редактировать"
+
+#: admin/alshc_user_setting.php:61
+msgid "EDIT POST"
+msgstr "Редактировать Пост"
+
+#: admin/alshc_user_setting.php:63
+msgid "EDIT TO OTHERS POSTS"
+msgstr "Редактировать чужой пост"
+
+#: admin/alshc_user_setting.php:62
+msgid "EDIT TO PUBLISHED POSTS"
+msgstr "Редактировать опубликованный пост"
+
+#. Author URI of the plugin
+msgid "https://codepen.io/alexlead/"
+msgstr "https://codepen.io/alexlead/"
+
+#. URI of the plugin
+msgid "https://github.com/alexlead/alshc_frontend_edit"
+msgstr "https://github.com/alexlead/alshc_frontend_edit"
+
+#: admin/alshc_user_setting.php:41
+msgid "If you choose incorrect page then you can not edit to posts."
+msgstr ""
+"При установке неверной страницы у вас не будет возможности редактировать "
+"посты."
+
+#: admin/alshc_user_setting.php:25
+msgid "Let you make settings on below forms."
+msgstr "Сделайте настройки в нижеследующей форме."
+
+#: admin/alshc_user_setting.php:54
+msgid ""
+"Please set capabilities on below table. Frontend editor is vissible for "
+"users with the capability of \"WP editor use\"."
+msgstr ""
+"Настройте права в следующей таблице. Фронтенд редактор будет отображаться "
+"только для пользователей с правами \"Пользоваться WP редактором\". "
+
+#: admin/alshc_user_setting.php:60
+msgid "PUBLISHING"
+msgstr "Публикация поста"
+
+#: admin/alshc_user_setting.php:21
+msgid "Put below shortcode on the created page:"
+msgstr "Разместите следующий шорткод на созданной странице:"
+
+#: view/alshc_new_post_editor.php:122
+msgid "Put tags here - comma is for separation"
+msgstr "Метки поста через запятую"
+
+#: admin/alshc_user_setting.php:58
+msgid "ROLES"
+msgstr "Роли"
+
+#: admin/alshc_user_setting.php:53
+msgid "ROLES CAPABILITIES FOR EDITOR USE"
+msgstr "НАСТРОЙКА ПРАВА ИСПОЛЬЗОВАНИЯ РЕДАКТОРА ПО РОЛЯМ"
+
+#: admin/alshc_user_setting.php:105 view/alshc_new_post_editor.php:90
+msgid "SAVE"
+msgstr "Сохранить"
+
+#: admin/alshc_user_setting.php:23
+msgid "Select the created page on below form."
+msgstr "Выберите созданную страницу в следующей форме."
+
+#: admin/alshc_user_setting.php:40
+msgid "Select the page with Editor shortcode"
+msgstr "Выберите страницу на которой размещен шорткод редактора"
+
+#: admin/alshc_user_setting.php:39
+msgid "SET EDITOR PAGE"
+msgstr "УСТАНОВКА СТРАНИЦЫ РЕДАКТОРА"
+
+#: admin/alshc_user_setting.php:24
+msgid ""
+"Set roles capabilities on below table, turn on capability on \"WP editor "
+"use\" column. If a user has not capability then he will not have access to "
+"the Editor."
+msgstr ""
+"Установите права \"Пользоваться WP редактором\" для пользователей в таблице "
+"ниже. Пользователи для которых не включено право использовать редактор не "
+"будут иметь к нему доступа."
+
+#. Description of the plugin
+msgid "Shortcode for adding system editor on frontend"
+msgstr "Шорткод для добавления редактора во фронтенд"
+
+#: view/alshc_new_post_editor.php:127
+msgid "Title of post"
+msgstr "Заголовок поста"
+
+#: admin/alshc_user_setting.php:59
+msgid "WP editor use"
+msgstr "Пользоваться WP редактором"
+
+#: admin/alshc_user_setting.php:18
+msgid "WP FRONTEND EDITOR: MANUAL"
+msgstr "WP Фронтенд Редактор: Инструкция"
+
+#: admin/alshc_user_setting.php:27
+msgid "WP FRONTEND EDITOR: SETTINGS"
+msgstr "WP Фронтенд Редактор: Настройки"
+
+#. Name of the plugin
+msgid "WP FRONTEND PUBLISH EDITOR"
+msgstr "WP FRONTEND PUBLISH EDITOR"

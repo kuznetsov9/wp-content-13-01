@@ -1,0 +1,3692 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Esenin\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-04-16 18:59+0000\n"
+"PO-Revision-Date: 2025-11-29 12:40+0000\n"
+"Last-Translator: \n"
+"Language-Team: Русский\n"
+"Language: ru_RU\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10 >= 2 && "
+"n%10<=4 &&(n%100<10||n%100 >= 20)? 1 : 2);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.8.0; wp-6.8.3; php-8.4.13\n"
+"X-Domain: esenin"
+
+#: core/theme-dashboard/class-theme-activation.php:424
+msgid " (Expired)"
+msgstr "(Истёк)"
+
+#: inc/theme-mods/miscellaneous-settings.php:115
+#: inc/theme-mods/miscellaneous-settings.php:287
+#: inc/theme-mods/miscellaneous-settings.php:459
+#: inc/theme-mods/miscellaneous-settings.php:631
+#: inc/theme-mods/miscellaneous-settings.php:804
+msgid " suffix for Retina screens support. For example "
+msgstr "суффикс для поддержки экранов Retina. Например"
+
+#: inc/theme-mods/site-identity.php:23 inc/theme-mods/site-identity.php:51
+msgid " suffix for supporting Retina screens. For example "
+msgstr "суффикс для поддержки экранов Retina. Например"
+
+#. %s number of post views
+#: inc/post-meta.php:250
+#, php-format
+msgid "%s view"
+msgid_plural "%s views"
+msgstr[0] "%s просмотр"
+msgstr[1] "%s просмотра"
+msgstr[2] "%s просмотров"
+
+#. %s number of minutes
+#: inc/post-meta.php:504 inc/post-meta.php:526
+#, php-format
+msgid "%s мин. чтения"
+msgid_plural "%s мин. чтения"
+msgstr[0] "%s минута"
+msgstr[1] "%s минуты"
+msgstr[2] "%s минут"
+
+#: inc/widgets/wid-latest-comments.php:8
+msgid "(ESENIN) Комментарии"
+msgstr "(ESENIN) Комментарии"
+
+#: inc/widgets/wid-custom-posts.php:12
+msgid "(ESENIN) Посты"
+msgstr "(ESENIN) Посты"
+
+#: inc/widgets/wid-themes.php:11
+msgid "(ESENIN) Темы"
+msgstr "(ESENIN) Темы"
+
+#: inc/widgets/wid-top-authors.php:11
+msgid "(ESENIN) Топ авторов"
+msgstr "(ESENIN) Топ авторов"
+
+#: core/promo-banner/assets/promo-banner.php:178
+msgid "(Fixes update display issues)"
+msgstr "(Устраняет проблемы с отображением обновлений)"
+
+#: inc/config/notifications.php:628
+msgid "- ваш комментарий одобрен в посте"
+msgstr "- ваш комментарий одобрен в посте"
+
+#: inc/config/notifications.php:645
+#, php-format
+msgid "- ваш пост опубликован в ленте. %s."
+msgstr "- ваш пост опубликован в ленте. %s."
+
+#: inc/theme-mods/site-identity.php:23
+msgid ". Recommended maximum height is 40px (80px for Retina version)."
+msgstr ". Рекомендуемая максимальная высота - 40px (80px для версии Retina)."
+
+#: inc/theme-mods/site-identity.php:51
+msgid ". Recommended maximum height is 80px (160px for Retina version)."
+msgstr ". Рекомендуемая максимальная высота - 80px (160px для версии Retina)."
+
+#: inc/theme-mods/miscellaneous-settings.php:115
+#: inc/theme-mods/miscellaneous-settings.php:287
+#: inc/theme-mods/miscellaneous-settings.php:459
+#: inc/theme-mods/miscellaneous-settings.php:631
+#: inc/theme-mods/miscellaneous-settings.php:804
+msgid ". Recommended width and height is 20px (40px for Retina version)."
+msgstr ". Рекомендуемая ширина и высота - 20px (40px для версии Retina)."
+
+#: inc/filter/in_popular_posts.php:5
+msgid "24 часа"
+msgstr "24 часа"
+
+#: inc/auth.php:190
+msgid "<p>Регистрация отключена</p>"
+msgstr "<p>Регистрация отключена</p>"
+
+#: inc/auth.php:192
+msgid ""
+"<p>У вас уже есть аккаунт на этом сайте, поэтому нет необходимости "
+"регистрироваться повторно.</p>"
+msgstr ""
+"<p>У вас уже есть аккаунт на этом сайте, поэтому нет необходимости "
+"регистрироваться повторно.</p>"
+
+#: core/customizer/modules/class-output.php:641
+#, php-format
+msgid "A new update is available. Version number <strong>%s</strong>. %s"
+msgstr "Доступно новое обновление. Номер версии <strong>%s</strong>. %s"
+
+#. Author of the theme
+#| msgid "Al. Khlimankov"
+msgid "A. Khlimankov"
+msgstr "Александр Хлиманков"
+
+#: inc/filters.php:365
+msgid "About Page"
+msgstr "О странице"
+
+#: inc/filters.php:357
+msgid "About Widget"
+msgstr "О виджете"
+
+#: inc/gutenberg/editor.php:131
+msgid "Accent"
+msgstr "Акцент"
+
+#: inc/theme-mods/colors-settings.php:124
+msgid "Accent Color"
+msgstr "Акцентный цвет"
+
+#: inc/theme-mods/colors-settings.php:142
+msgid "Accent Color Dark"
+msgstr "Акцентный цвет Темный"
+
+#: core/theme-dashboard/class-theme-activation.php:445
+#: core/customizer/modules/class-output.php:614
+#: core/customizer/modules/class-output.php:667
+#: core/promo-banner/assets/promo-banner.php:187
+msgid "Activate License"
+msgstr "Активировать лицензию"
+
+#: core/theme-dashboard/class-theme-activation.php:697
+#: core/theme-dashboard/class-theme-activation.php:700
+msgid "activate your license"
+msgstr "активируйте свою лицензию"
+
+#: core/theme-dashboard/class-theme-activation.php:347
+msgid "Activation"
+msgstr "Активация"
+
+#: core/customizer/modules/class-output.php:334
+msgid "Activation failed."
+msgstr "Активация не удалась."
+
+#: core/customizer/modules/class-output.php:347
+msgid "Activation successful. Cache cleared."
+msgstr "Активация прошла успешно. Кэш очищен."
+
+#: core/theme-dashboard/class-theme-activation.php:360
+msgid "Active Websites"
+msgstr "Активный сайт"
+
+#: inc/theme-mods/homepage-settings.php:1357
+msgid ""
+"Add comma-separated list of category slugs. For example: &laquo;travel, "
+"lifestyle, food&raquo;. Leave empty for all categories."
+msgstr ""
+"Добавьте список категорий, разделенных запятыми. Например: \"путешествия, "
+"авто, еда\". Оставьте пустым для всех категорий."
+
+#: inc/theme-mods/homepage-settings.php:1427
+msgid ""
+"Add comma-separated list of post IDs (max. 5). For example: 12, 34, 145. "
+"Leave empty for all posts."
+msgstr ""
+"Добавьте список идентификаторов записей, разделенных запятыми (максимум 5). "
+"Например: 12, 34, 145. Оставьте пустым для всех записей."
+
+#: inc/theme-mods/homepage-settings.php:1391
+msgid ""
+"Add comma-separated list of tag slugs. For example: &laquo;worth-reading, "
+"top-5, playlists&raquo;. Leave empty for all tags."
+msgstr ""
+"Добавьте список тегов, разделенных запятыми. Например: \"стоит прочитать\", "
+"\"топ-5\", \"плейлисты\". Оставьте пустым для всех тегов."
+
+#: inc/custom-content.php:106
+msgid "Additional Content"
+msgstr "Дополнительный контент"
+
+#: core/customizer/class-customizer.php:288
+msgid "Advanced settings"
+msgstr "Расширенные настройки"
+
+#: inc/custom-content.php:160
+msgid "After"
+msgstr "После: "
+
+#: author.php:10 pages/author.php:10
+msgid "All Posts By"
+msgstr "Все посты "
+
+#: core/theme-dashboard/class-theme-activation.php:323
+msgid "and"
+msgstr "и"
+
+#: inc/custom-content.php:86
+msgid "Archive"
+msgstr "Архив"
+
+#: inc/theme-mods/archive-settings.php:11
+msgid "Archive Settings"
+msgstr "Настройки архива"
+
+#: inc/widgets-init.php:18
+msgid "Aside Sidebar"
+msgstr "Aside панель"
+
+#: inc/theme-mods/homepage-settings.php:1305
+msgid "Author"
+msgstr "Автор"
+
+#: inc/theme-mods/homepage-settings.php:1226
+msgid "Autoplay Delay (ms)"
+msgstr "Задержка автовоспроизведения (мс)"
+
+#: inc/theme-functions.php:308
+msgid "B"
+msgstr "B"
+
+#: archive.php:162 index.php:102
+msgid "Back to Home"
+msgstr "На главную"
+
+#: inc/filters.php:535
+msgid "Badge Text"
+msgstr "Текст значка"
+
+#: inc/theme-mods/typography-settings.php:27
+msgid "Base Font"
+msgstr "Базовый шрифт"
+
+#: inc/custom-content.php:149
+msgid "Before"
+msgstr "До: "
+
+#: inc/theme-mods/miscellaneous-settings.php:86
+#: inc/theme-mods/miscellaneous-settings.php:258
+#: inc/theme-mods/miscellaneous-settings.php:430
+#: inc/theme-mods/miscellaneous-settings.php:602
+#: inc/theme-mods/miscellaneous-settings.php:775
+msgid "Behance"
+msgstr "Behance"
+
+#: inc/gutenberg/editor.php:141
+msgid "Blue"
+msgstr "Синий"
+
+#: core/customizer/modules/class-fonts.php:76
+msgid "Bold 700"
+msgstr "Bold 700"
+
+#: core/customizer/modules/class-fonts.php:77
+msgid "Bold 700 Italic"
+msgstr "Bold 700 Italic"
+
+#: core/customizer/modules/class-fonts.php:66
+msgid "Book 300"
+msgstr "Book 300"
+
+#: core/customizer/modules/class-fonts.php:67
+msgid "Book 300 Italic"
+msgstr "Book 300 Italic"
+
+#: inc/gutenberg/editor.php:136
+msgid "Border"
+msgstr "Граница"
+
+#: inc/theme-mods/colors-settings.php:933
+msgid "Border Color"
+msgstr "Цвет границы"
+
+#: inc/theme-mods/colors-settings.php:959
+msgid "Border Color Dark"
+msgstr "Цвет границы (Dark)"
+
+#: inc/theme-mods/colors-settings.php:1112
+msgid "Button Border Radius"
+msgstr "Радиус кнопки"
+
+#: inc/theme-mods/header-settings.php:257
+msgid "Button Label"
+msgstr "Текст кнопки"
+
+#: inc/theme-mods/header-settings.php:274
+msgid "Button Link"
+msgstr "Ссылка кнопки"
+
+#: core/customizer/modules/class-output.php:622
+msgid "Buy"
+msgstr "Купить"
+
+#: core/theme-dashboard/class-theme-activation.php:323
+msgid "By checking this box you agree to our"
+msgstr "Устанавливая этот флажок, вы соглашаетесь с нашими"
+
+#: core/customizer/modules/class-output.php:345
+msgid "Caches cleared. Reload page or check updates again."
+msgstr "Кэш очищен. Перезагрузка страницы.."
+
+#: core/customizer/controls/class-control-typography.php:224
+msgid "Capitalize"
+msgstr "Capitalize"
+
+#: inc/theme-mods/homepage-settings.php:1303
+msgid "Category"
+msgstr "Категория"
+
+#: inc/filters.php:405
+msgid "Category Grid"
+msgstr "Категория (Grid)"
+
+#: inc/categories.php:19 inc/categories.php:57
+msgid "Category Logo"
+msgstr "Логотип категории"
+
+#: core/customizer/controls/class-control-typography.php:198
+msgid "Center"
+msgstr "Центр"
+
+#: inc/custom-menu.php:187 inc/custom-menu.php:228
+msgid "Change Image"
+msgstr "Изменить изображение"
+
+#: core/theme-dashboard/class-theme-activation.php:378
+msgid "Check Again"
+msgstr "Проверьте ещё раз"
+
+#: core/customizer/modules/class-output.php:336
+msgid "Check failed."
+msgstr "Проверка не удалась."
+
+#: core/customizer/modules/class-output.php:618
+#: core/promo-banner/assets/promo-banner.php:192
+msgid "Check Status"
+msgstr "Проверить статус"
+
+#: core/customizer/modules/class-output.php:344
+msgid "Clear all update caches? This will refresh license and update checks."
+msgstr ""
+"Очистить все кэши обновлений? Это обновит лицензии и проверки обновлений."
+
+#: core/customizer/modules/class-output.php:337
+msgid "Clear failed."
+msgstr "Очистить не удалось."
+
+#: core/customizer/modules/class-output.php:624
+#: core/promo-banner/assets/promo-banner.php:178
+msgid "Clear Update Cache"
+msgstr "Очистить кэш"
+
+#: inc/oauth2.php:41
+msgid "Client ID"
+msgstr "Client ID"
+
+#: inc/oauth2.php:45 inc/oauth2.php:63
+msgid "Client secret"
+msgstr "Client secret"
+
+#: inc/oauth2.php:59
+msgid "ClientID"
+msgstr "ClientID"
+
+#: template-parts/offcanvas.php:27
+msgid "Close mobile menu button"
+msgstr "Кнопка закрытия мобильного меню"
+
+#: template-parts/site-search.php:19
+msgid "Close search button"
+msgstr "Кнопка закрытия поиска"
+
+#: inc/theme-mods/colors-settings.php:11
+msgid "Colors"
+msgstr "Цвета"
+
+#: inc/custom-content.php:65 inc/theme-mods/homepage-settings.php:1307
+msgid "Comments"
+msgstr "Комментарии"
+
+#: inc/theme-mods/post-settings.php:20 inc/theme-mods/archive-settings.php:20
+#: inc/theme-mods/header-settings.php:20
+#: inc/theme-mods/homepage-settings.php:55
+#: inc/theme-mods/homepage-settings.php:1107
+msgid "Common"
+msgstr "Общие"
+
+#: core/promo-banner/assets/promo-banner.php:602
+msgid "Connection error to license server."
+msgstr "Ошибка подключения к серверу лицензий."
+
+#: core/customizer/modules/class-output.php:862
+msgid "Connection error to license server. Check logs."
+msgstr "Ошибка подключения к серверу лицензий. Проверьте логи."
+
+#: core/promo-banner/assets/promo-banner.php:661
+msgid "Connection error to server."
+msgstr "Ошибка подключения к серверу."
+
+#: core/customizer/modules/class-output.php:976
+msgid "Connection error to server. Check internet/ firewall."
+msgstr "Ошибка подключения к серверу. Проверьте Интернет/брандмауэр."
+
+#: core/customizer/modules/class-output.php:338
+msgid "Connection error. Try again."
+msgstr "Ошибка подключения. Попробуйте ещё раз."
+
+#: inc/filters.php:373
+msgid "Contact Form"
+msgstr "Контактная форма"
+
+#. %s: Name of current post
+#: template-parts/archive/content-full.php:40
+#, php-format
+msgid "Continue reading<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr "Продолжить чтение<span class=\"screen-reader-text\"> \"%s\"</span>"
+
+#: inc/theme-tags.php:846
+msgid "Copy link"
+msgstr "Копировать ссылку"
+
+#: core/theme-dashboard/class-theme-activation.php:568
+msgid ""
+"Could not receive data from the server, try another time, or contact support."
+msgstr ""
+"Не удалось получить данные с сервера, попробуйте в другой раз или обратитесь "
+"в службу поддержки."
+
+#: core/customizer/class-customizer.php:295
+msgid "CSS Defaults"
+msgstr "CSS по умолчанию"
+
+#: inc/theme-mods/miscellaneous-settings.php:58
+#: inc/theme-mods/miscellaneous-settings.php:230
+#: inc/theme-mods/miscellaneous-settings.php:402
+#: inc/theme-mods/miscellaneous-settings.php:574
+#: inc/theme-mods/miscellaneous-settings.php:747
+msgid "Custom"
+msgstr "Пользовательские"
+
+#: inc/theme-mods/header-settings.php:238
+msgid "Custom Button"
+msgstr "Пользовательская кнопка"
+
+#: inc/theme-mods/colors-settings.php:25
+msgid "Dark"
+msgstr "Тёмный режим (Dark)"
+
+#: inc/theme-tags.php:351
+msgid "Dark mode toggle button"
+msgstr "Кнопка переключения темного режима"
+
+#: inc/theme-mods/homepage-settings.php:1306
+msgid "Date"
+msgstr "Дата"
+
+#: core/theme-dashboard/class-theme-activation.php:441
+#: core/promo-banner/assets/promo-banner.php:193
+msgid "Deactivate License"
+msgstr "Деактивировать лицензию"
+
+#: core/theme-dashboard/class-theme-activation.php:435
+msgid "Deactivation"
+msgstr "Деактивация"
+
+#: inc/gutenberg/panels.php:111 inc/gutenberg/panels.php:130
+#: inc/gutenberg/panels.php:158 core/customizer/class-customizer.php:291
+msgid "Default"
+msgstr "По умолчанию"
+
+#: core/customizer/class-customizer.php:296
+msgid "Default Browser Font-Family"
+msgstr "Семейство шрифтов браузера по умолчанию"
+
+#: inc/theme-mods/post-settings.php:31 inc/theme-mods/archive-settings.php:31
+#: inc/theme-mods/page-settings.php:19 inc/theme-mods/homepage-settings.php:66
+msgid "Default Sidebar"
+msgstr "Боковая панель по умолчанию"
+
+#: core/promo-banner/assets/promo-banner.php:175
+msgid "Default: 6350. Change if product is recreated."
+msgstr "По умолчанию: 6350. Измените, если продукт создается заново."
+
+#: core/theme-dashboard/class-theme-activation.php:382
+msgid "Development Mode"
+msgstr "Режим разработки"
+
+#: inc/gutenberg/panels.php:166 inc/theme-mods/homepage-settings.php:1203
+#: inc/theme-mods/homepage-settings.php:1273
+msgid "Disabled"
+msgstr "Отключён"
+
+#: inc/theme-tags.php:419
+msgid "Discover More"
+msgstr "Узнать больше"
+
+#. %s: Post Title
+#: inc/theme-tags.php:413
+#, php-format
+msgid "Discover More: %s"
+msgstr "Узнать больше: %s"
+
+#: inc/theme-mods/colors-settings.php:462
+msgid "Display advanced color settings"
+msgstr "Показать расширенные настройки цвета"
+
+#: inc/theme-mods/typography-settings.php:112
+msgid "Display advanced typography settings"
+msgstr "Показать расширенные настройки типографики"
+
+#: inc/theme-mods/colors-settings.php:1036
+msgid "Display border radius settings"
+msgstr "Показать настройки радиуса границы"
+
+#: inc/theme-mods/header-settings.php:246
+msgid "Display custom button"
+msgstr "Показать пользовательскую кнопку"
+
+#: inc/theme-mods/post-settings.php:117
+msgid "Display excerpt as post subtitle"
+msgstr "Показать отрывок как подзаголовок поста"
+
+#: inc/theme-mods/homepage-settings.php:1095
+msgid "Display hero section"
+msgstr "Показать раздел \"герой\""
+
+#: inc/theme-mods/miscellaneous-settings.php:19
+msgid "Display published date instead of modified date"
+msgstr "Показать дату публикации вместо даты изменения"
+
+#: inc/theme-mods/header-settings.php:138
+msgid "Display search button"
+msgstr "Показать кнопку поиска"
+
+#: core/customizer/modules/class-output.php:656
+msgid "Documentation"
+msgstr "Документация"
+
+#: inc/theme-mods/miscellaneous-settings.php:85
+#: inc/theme-mods/miscellaneous-settings.php:257
+#: inc/theme-mods/miscellaneous-settings.php:429
+#: inc/theme-mods/miscellaneous-settings.php:601
+#: inc/theme-mods/miscellaneous-settings.php:774
+msgid "Dribbble"
+msgstr "Dribbble"
+
+#: core/promo-banner/assets/promo-banner.php:176
+msgid "e.g., 6350"
+msgstr "например, 6350"
+
+#: inc/filters.php:925 inc/filters.php:926
+msgid "Email"
+msgstr "Почта"
+
+#: inc/filters.php:465 core/theme-dashboard/class-theme-activation.php:310
+msgid "Email Address"
+msgstr "Email для активации"
+
+#: core/theme-dashboard/class-theme-activation.php:489
+msgid "Email address is considered invalid."
+msgstr "Адрес электронной почты недействителен."
+
+#: core/customizer/modules/class-output.php:791
+#: core/promo-banner/assets/promo-banner.php:524
+msgid "Empty license key."
+msgstr "Пустой лицензионный ключ."
+
+#: inc/theme-mods/colors-settings.php:34
+msgid "Enable dark/light mode toggle"
+msgstr "Включить переключение темного/светлого режима"
+
+#: inc/theme-mods/post-settings.php:147
+msgid "Enable prev/next section"
+msgstr "Включить предыдущий/следующий пост"
+
+#: inc/theme-mods/miscellaneous-settings.php:969
+msgid "Enable scroll to top button"
+msgstr "Включить кнопку прокрутки наверх"
+
+#: inc/theme-mods/miscellaneous-settings.php:41
+msgid "Enable social links"
+msgstr "Включить социальные ссылки"
+
+#: inc/theme-mods/miscellaneous-settings.php:925
+msgid "Enable sticky sidebar"
+msgstr "Включить \"липкую\" боковую панель"
+
+#: inc/theme-mods/header-settings.php:91
+msgid "Enable the smart sticky feature"
+msgstr "Включить функцию «умной фиксации»"
+
+#: inc/custom-content.php:124
+msgid "Enable this if you're using Google AdSense."
+msgstr "Включите, если вы используете Google AdSense."
+
+#: inc/gutenberg/panels.php:162 inc/theme-mods/homepage-settings.php:1202
+#: inc/theme-mods/homepage-settings.php:1272
+msgid "Enabled"
+msgstr "Включено"
+
+#: inc/theme-mods/header-settings.php:81
+msgid "Enabling this option will make navigation bar visible when scrolling."
+msgstr "Включение этой опции сделает панель навигации видимой при прокрутке."
+
+#: inc/theme-mods/header-settings.php:92
+msgid ""
+"Enabling this option will reveal navigation bar when scrolling up and hide "
+"it when scrolling down."
+msgstr ""
+"Включение этой опции приведет к отображению панели навигации при прокрутке "
+"вверх и скрытию ее при прокрутке вниз."
+
+#: core/customizer/modules/class-output.php:608
+#: core/promo-banner/assets/promo-banner.php:183
+#| msgid "Enter your license key"
+msgid "Enter license key"
+msgstr "Введите ключ"
+
+#: inc/theme-tags.php:589
+msgid "Enter Your Email"
+msgstr "Введите свой адрес почты"
+
+#: core/promo-banner/assets/promo-banner.php:174
+msgid "Enter your license key from devster.ru for updates and support."
+msgstr ""
+"Введите ваш лицензионный ключ от devster.ru для получения обновлений и "
+"поддержки."
+
+#: inc/theme-mods/typography-settings.php:377
+msgid "Entry Excerpt Font"
+msgstr "Шрифт отрывка поста"
+
+#: inc/theme-mods/typography-settings.php:344
+msgid "Entry Title Font"
+msgstr "Шрифт заголовка поста"
+
+#. Name of the theme
+#: core/customizer/modules/class-output.php:934
+#: core/promo-banner/assets/promo-banner.php:807
+msgid "Esenin"
+msgstr "Esenin"
+
+#: core/customizer/modules/class-output.php:85
+#: core/promo-banner/assets/promo-banner.php:141
+msgid "Esenin License"
+msgstr "Лицензия Еsenin"
+
+#: core/promo-banner/assets/promo-banner.php:641
+msgid "Esenin License API Error: Invalid response - "
+msgstr "Ошибка Esenin License API: неверный ответ -"
+
+#: core/promo-banner/assets/promo-banner.php:886
+#, php-format
+msgid ""
+"Esenin theme activated! For full features and updates, %senter your license "
+"key%s from devster.ru."
+msgstr ""
+"Тема Esenin активирована! Для получения полного функционала и обновлений "
+"введите %sлицензионный ключ%s с сайта devster.ru."
+
+#: core/promo-banner/assets/promo-banner.php:817
+msgid "Esenin Theme Checker"
+msgstr "Проверка темы Esenin"
+
+#: core/customizer/modules/class-output.php:594
+#: core/promo-banner/assets/promo-banner.php:173
+#, php-format
+msgid "Esenin Theme License (v%s)"
+msgstr "Лицензия шаблона Esenin (v%s)"
+
+#: core/promo-banner/assets/promo-banner.php:831
+#, php-format
+msgid "Esenin Update API Error: Invalid JSON - %s"
+msgstr "Ошибка API обновления Esenin: недопустимый JSON - %s"
+
+#: inc/theme-mods/homepage-settings.php:1491
+msgid "Exclude hero posts from the main archive"
+msgstr "Исключить посты \"героев\" из основного архива"
+
+#: inc/filters.php:413
+msgid "Experience Grid"
+msgstr "Сетка впечатлений"
+
+#: inc/categories.php:219
+msgid "Explore Trending Topics"
+msgstr "Исследуйте популярные темы"
+
+#: core/customizer/modules/class-fonts.php:78
+#: core/customizer/modules/class-fonts.php:79
+msgid "Extra-Bold 800"
+msgstr "Extra-Bold 800"
+
+#: core/customizer/modules/class-fonts.php:80
+msgid "Extra-Bold 800 Italic"
+msgstr "Extra-Bold 800 Italic"
+
+#: inc/theme-mods/miscellaneous-settings.php:79
+#: inc/theme-mods/miscellaneous-settings.php:251
+#: inc/theme-mods/miscellaneous-settings.php:423
+#: inc/theme-mods/miscellaneous-settings.php:595
+#: inc/theme-mods/miscellaneous-settings.php:768
+msgid "Facebook"
+msgstr "Facebook"
+
+#: core/promo-banner/assets/promo-banner.php:504
+msgid "Failed to save Product ID."
+msgstr "Не удалось сохранить id товара."
+
+#: inc/theme-mods/homepage-settings.php:1356
+msgid "Filter by Categories"
+msgstr "Фильтровать по категориям"
+
+#: inc/theme-mods/homepage-settings.php:1426
+msgid "Filter by Posts"
+msgstr "Фильтровать по постам"
+
+#: inc/theme-mods/homepage-settings.php:1390
+msgid "Filter by Tags"
+msgstr "Фильтровать по тегам"
+
+#: inc/custom-menu.php:121
+msgid "Flash Icon"
+msgstr "Иконка \"Пульс\""
+
+#: core/customizer/controls/class-control-typography.php:134
+msgid "Font Family"
+msgstr "Семейство шрифтов"
+
+#: core/customizer/controls/class-control-typography.php:149
+msgid "Font Size"
+msgstr "Размер шрифта"
+
+#: functions.php:56 inc/custom-content.php:70
+msgid "Footer"
+msgstr "Футер"
+
+#: inc/theme-mods/footer-settings.php:31
+msgid "Footer Copyright"
+msgstr "Авторское право в футере"
+
+#: inc/theme-mods/site-identity.php:50
+#: inc/theme-mods/typography-settings.php:446
+msgid "Footer Logo"
+msgstr "Логотип в футере"
+
+#: inc/theme-mods/site-identity.php:61
+msgid "Footer Logo for Dark Mode"
+msgstr "Логотип (Dark) в футере"
+
+#: inc/theme-mods/typography-settings.php:676
+msgid "Footer Menu Font"
+msgstr "Шрифт меню футера"
+
+#: inc/theme-mods/footer-settings.php:11
+msgid "Footer Settings"
+msgstr "Настройки футера"
+
+#: inc/theme-mods/typography-settings.php:695
+msgid "Footer Submenu Font"
+msgstr "Шрифт подменю футера"
+
+#: author.php:255 author.php:353 inc/narrow.php:273 pages/popular-posts.php:78
+#: pages/author.php:245 pages/author.php:343 pages/my-bookmarks.php:107
+msgid "for "
+msgstr "из "
+
+#: core/theme-dashboard/class-theme-activation.php:426
+msgid "for more details."
+msgstr "для более подробной информации."
+
+#: inc/custom-content.php:83
+msgid "Front Page"
+msgstr "Главная страница"
+
+#: inc/theme-mods/homepage-settings.php:38
+msgid "Front Page Settings"
+msgstr "Настройки главной страницы"
+
+#: inc/custom-content.php:114 inc/theme-mods/typography-settings.php:18
+msgid "General"
+msgstr "Общие"
+
+#: inc/theme-functions.php:1591 pages/edit-profile.php:183
+msgid "GitHub"
+msgstr "GitHub"
+
+#: inc/theme-mods/miscellaneous-settings.php:88
+#: inc/theme-mods/miscellaneous-settings.php:260
+#: inc/theme-mods/miscellaneous-settings.php:432
+#: inc/theme-mods/miscellaneous-settings.php:604
+#: inc/theme-mods/miscellaneous-settings.php:777
+msgid "Github"
+msgstr "Github"
+
+#: core/customizer/modules/class-output.php:638
+msgid "Go to updates"
+msgstr "Перейти к обновлению"
+
+#: inc/oauth2.php:147 inc/oauth2.php:365
+msgid "Google"
+msgstr "Google"
+
+#: core/customizer/class-customizer.php:294
+msgid "Google Fonts"
+msgstr "Google Fonts"
+
+#: inc/theme-mods/colors-settings.php:213
+msgid "Gradient End"
+msgstr "Gradient End"
+
+#: inc/theme-mods/colors-settings.php:231
+msgid "Gradient End Dark"
+msgstr "Gradient End (Dark)"
+
+#: theme.json:1
+msgctxt "Gradient name"
+msgid "Primary Gradient"
+msgstr "Основной Gradient"
+
+#: inc/theme-mods/colors-settings.php:177
+msgid "Gradient Start"
+msgstr "Gradient Start"
+
+#: inc/theme-mods/colors-settings.php:195
+msgid "Gradient Start Dark"
+msgstr "Gradient Start (Dark)"
+
+#: inc/gutenberg/editor.php:176
+msgid "Gray 100"
+msgstr "Gray 100"
+
+#: inc/gutenberg/editor.php:181
+msgid "Gray 200"
+msgstr "Gray 200"
+
+#: inc/gutenberg/editor.php:171
+msgid "Gray 50"
+msgstr "Gray 50"
+
+#: inc/gutenberg/editor.php:146
+msgid "Green"
+msgstr "Зелёный"
+
+#: inc/custom-content.php:15
+msgid "Header"
+msgstr "Шапка"
+
+#: inc/theme-mods/colors-settings.php:346
+msgid "Header Background"
+msgstr "Фон шапки"
+
+#: inc/theme-mods/colors-settings.php:364
+msgid "Header Background Dark"
+msgstr "Фон шапки (Dark)"
+
+#: inc/theme-mods/header-settings.php:64
+msgid "Header Border Width"
+msgstr "Ширина границы шапки"
+
+#: inc/theme-mods/header-settings.php:47
+msgid "Header Height"
+msgstr "Высота шапки"
+
+#: inc/theme-mods/header-settings.php:31
+msgid "Header Initial Height"
+msgstr "Начальная высота шапки"
+
+#: inc/theme-mods/header-settings.php:11
+msgid "Header Settings"
+msgstr "Настройки шапки"
+
+#: inc/theme-mods/colors-settings.php:382
+msgid "Header Submenu Background"
+msgstr "Фон подменю в шапке"
+
+#: inc/theme-mods/colors-settings.php:400
+msgid "Header Submenu Background Dark"
+msgstr "Фон подменю в шапке (Dark)"
+
+#: inc/theme-mods/homepage-settings.php:1148
+msgid "Heading"
+msgstr "Заголовок"
+
+#: inc/theme-mods/typography-settings.php:520
+msgid "Heading 1"
+msgstr "H1"
+
+#: inc/theme-mods/typography-settings.php:538
+msgid "Heading 2"
+msgstr "H2"
+
+#: inc/theme-mods/typography-settings.php:556
+msgid "Heading 3"
+msgstr "H3"
+
+#: inc/theme-mods/typography-settings.php:574
+msgid "Heading 4"
+msgstr "H4"
+
+#: inc/theme-mods/typography-settings.php:592
+msgid "Heading 5"
+msgstr "H5"
+
+#: inc/theme-mods/typography-settings.php:610
+msgid "Heading 6"
+msgstr "H6"
+
+#: inc/theme-mods/typography-settings.php:471
+#: inc/theme-mods/typography-settings.php:480
+msgid "Headings"
+msgstr "Заголовки"
+
+#: inc/theme-mods/typography-settings.php:508
+msgid "Headings Font Size"
+msgstr "Размер шрифта заголовков"
+
+#: inc/custom-content.php:20
+msgid "Hero"
+msgstr "Герой"
+
+#: inc/theme-mods/colors-settings.php:418
+msgid "Highlight Color"
+msgstr "Цвет наведения"
+
+#: inc/theme-mods/colors-settings.php:436
+msgid "Highlight Color Dark"
+msgstr "Цвет наведения (Dark)"
+
+#: inc/custom-content.php:82
+msgid "Homepage"
+msgstr "Домашняя страница"
+
+#: inc/theme-mods/colors-settings.php:843
+msgid "Hover Dark Gradient End"
+msgstr "Gradient End при наведении (Dark)"
+
+#: inc/theme-mods/colors-settings.php:793
+msgid "Hover Dark Gradient Start"
+msgstr " Gradient Start при наведении (Dark)"
+
+#: inc/theme-mods/colors-settings.php:818
+msgid "Hover Gradient End"
+msgstr "Gradient End при наведении"
+
+#: inc/theme-mods/colors-settings.php:768
+msgid "Hover Gradient Start"
+msgstr "Gradient Start при наведении"
+
+#: inc/theme-mods/colors-settings.php:868
+msgid "Hover Text Color"
+msgstr "Цвет текста при наведении"
+
+#: inc/theme-mods/colors-settings.php:893
+msgid "Hover Text Color Dark"
+msgstr "Цвет текста при наведении (Dark)"
+
+#. URI of the theme
+msgid "https://devster.ru/themes/esenin"
+msgstr "https://devster.ru/themes/esenin"
+
+#. Author URI of the theme
+msgid "https://t.me/khlimankov"
+msgstr "https://t.me/khlimankov"
+
+#: inc/theme-mods/miscellaneous-settings.php:114
+#: inc/theme-mods/miscellaneous-settings.php:286
+#: inc/theme-mods/miscellaneous-settings.php:458
+#: inc/theme-mods/miscellaneous-settings.php:630
+#: inc/theme-mods/miscellaneous-settings.php:803
+msgid "Icon"
+msgstr "Иконка"
+
+#: inc/custom-menu.php:134
+msgid "Icon \"Pulse\""
+msgstr "Иконка \"Пульс\""
+
+#: inc/theme-mods/miscellaneous-settings.php:198
+#: inc/theme-mods/miscellaneous-settings.php:370
+#: inc/theme-mods/miscellaneous-settings.php:542
+#: inc/theme-mods/miscellaneous-settings.php:714
+#: inc/theme-mods/miscellaneous-settings.php:887
+#: inc/theme-mods/header-settings.php:296
+msgid "In a new tab"
+msgstr "В новой вкладке"
+
+#: inc/theme-mods/miscellaneous-settings.php:197
+#: inc/theme-mods/miscellaneous-settings.php:369
+#: inc/theme-mods/miscellaneous-settings.php:541
+#: inc/theme-mods/miscellaneous-settings.php:713
+#: inc/theme-mods/miscellaneous-settings.php:886
+#: inc/theme-mods/header-settings.php:295
+msgid "In the active tab"
+msgstr "В той же вкладке"
+
+#: core/customizer/modules/class-output.php:339
+#| msgid "Active"
+msgid "inactive"
+msgstr "нерабочий"
+
+#: inc/theme-mods/homepage-settings.php:247
+msgid "Infinite Load"
+msgstr "Ленивая загрузка"
+
+#: core/customizer/controls/class-control-typography.php:186
+#: core/customizer/controls/class-control-typography.php:228
+#: core/customizer/controls/class-control-typography.php:244
+msgid "Inherit"
+msgstr "Inherit"
+
+#: core/customizer/controls/class-control-typography.php:227
+#: core/customizer/controls/class-control-typography.php:243
+msgid "Initial"
+msgstr "Initial"
+
+#: inc/filters.php:349
+msgid "Inline Gradient"
+msgstr "Встроенный градиент"
+
+#: inc/theme-mods/colors-settings.php:487
+msgid "Input Background"
+msgstr "Фон input "
+
+#: inc/theme-mods/colors-settings.php:512
+msgid "Input Background Dark"
+msgstr "Фон input (Dark)"
+
+#: inc/theme-mods/colors-settings.php:1137
+msgid "Input Border Radius"
+msgstr "Радиус input "
+
+#: inc/theme-mods/colors-settings.php:537
+msgid "Input Color"
+msgstr "Цвет input"
+
+#: inc/theme-mods/colors-settings.php:562
+msgid "Input Color Dark"
+msgstr "Цвет input (Dark)"
+
+#: inc/theme-mods/typography-settings.php:318
+msgid "Input Font"
+msgstr "Шрифт input"
+
+#: inc/theme-functions.php:1579 pages/edit-profile.php:181
+#: inc/theme-mods/miscellaneous-settings.php:80
+#: inc/theme-mods/miscellaneous-settings.php:252
+#: inc/theme-mods/miscellaneous-settings.php:424
+#: inc/theme-mods/miscellaneous-settings.php:596
+#: inc/theme-mods/miscellaneous-settings.php:769
+msgid "Instagram"
+msgstr "Instagram"
+
+#: core/customizer/modules/class-output.php:773
+#: core/customizer/modules/class-output.php:786
+#: core/customizer/modules/class-output.php:833
+#: core/customizer/modules/class-output.php:850
+#: core/promo-banner/assets/promo-banner.php:471
+#: core/promo-banner/assets/promo-banner.php:488
+#: core/promo-banner/assets/promo-banner.php:517
+#: core/promo-banner/assets/promo-banner.php:548
+#: core/promo-banner/assets/promo-banner.php:574
+#: core/promo-banner/assets/promo-banner.php:595
+msgid "Insufficient permissions."
+msgstr "Недостаточно разрешений."
+
+#: core/promo-banner/assets/promo-banner.php:826
+msgid "Invalid API response."
+msgstr "Неверный ответ API."
+
+#: core/promo-banner/assets/promo-banner.php:832
+msgid "Invalid JSON response."
+msgstr "Неверный ответ JSON."
+
+#: core/promo-banner/assets/promo-banner.php:656
+msgid "Invalid license key."
+msgstr "Недействительный лицензионный ключ."
+
+#: core/customizer/modules/class-output.php:970
+msgid "Invalid license key. It may be incorrect or already used."
+msgstr ""
+"Недействительный лицензионный ключ. Возможно, он неверен или уже использован."
+
+#: core/customizer/modules/class-output.php:1093
+msgid "Invalid license or no update available."
+msgstr "Недействительная лицензия или нет доступного обновления."
+
+#: core/promo-banner/assets/promo-banner.php:495
+msgid "Invalid Product ID (must be 1-99999)."
+msgstr "Неверный id товара (должен быть 1-99999)."
+
+#: archive.php:156 index.php:96
+msgid ""
+"It seems we cannot find what you are looking for. Please check the spelling "
+"or rephrase."
+msgstr ""
+"Похоже, мы не можем найти то, что вы ищете. Пожалуйста, проверьте "
+"правильность написания или перефразируйте."
+
+#: core/customizer/controls/class-control-typography.php:210
+msgid "Justify"
+msgstr "Подтвердить"
+
+#: inc/theme-functions.php:310
+msgid "K"
+msgstr "K"
+
+#: inc/theme-mods/miscellaneous-settings.php:141
+#: inc/theme-mods/miscellaneous-settings.php:313
+#: inc/theme-mods/miscellaneous-settings.php:485
+#: inc/theme-mods/miscellaneous-settings.php:657
+#: inc/theme-mods/miscellaneous-settings.php:830
+msgid "Label"
+msgstr "Ярлык"
+
+#: inc/theme-mods/miscellaneous-settings.php:941
+msgid "Last widget top edge"
+msgstr "Верхний край последнего виджета"
+
+#: inc/theme-mods/homepage-settings.php:45
+msgid "Latest Posts Layout"
+msgstr "Макет последних постов"
+
+#: inc/gutenberg/editor.php:126 inc/theme-mods/homepage-settings.php:1125
+msgid "Layout"
+msgstr "Макет"
+
+#: inc/theme-mods/colors-settings.php:257
+msgid "Layout Background"
+msgstr "Фон макета"
+
+#: inc/theme-mods/colors-settings.php:275
+msgid "Layout Background Dark"
+msgstr "Фон макета (Dark)"
+
+#: inc/theme-mods/colors-settings.php:1061
+msgid "Layout Elements Border Radius"
+msgstr "Радиус границ элементов макета"
+
+#: core/customizer/controls/class-control-typography.php:192
+msgid "Left"
+msgstr "Слева"
+
+#: core/customizer/controls/class-control-typography.php:165
+msgid "Letter Spacing"
+msgstr "Letter Spacing"
+
+#: core/customizer/modules/class-output.php:812
+msgid "License activated and verified successfully."
+msgstr "Лицензия успешно активирована."
+
+#: core/promo-banner/assets/promo-banner.php:533
+#| msgid "Plugin activated successfully."
+msgid "License activated successfully."
+msgstr "Лицензия успешно активирована."
+
+#: core/customizer/modules/class-output.php:342
+msgid "License active. Updates enabled."
+msgstr "Лицензия активна. Обновления включены."
+
+#: core/promo-banner/assets/promo-banner.php:559
+msgid "License deactivated successfully."
+msgstr "Лицензия успешно деактивирована."
+
+#: core/customizer/modules/class-output.php:975
+#| msgid "License Activation"
+msgid "License deactivated."
+msgstr "Лицензия деактивирована."
+
+#: core/promo-banner/assets/promo-banner.php:657
+#| msgid "License required.."
+msgid "License expired."
+msgstr "Срок действия лицензии истек."
+
+#: core/customizer/modules/class-output.php:971
+msgid "License expired. Renew on devster.ru."
+msgstr "Лицензия истекла. Продлите на devster.ru."
+
+#: core/customizer/modules/class-output.php:979
+msgid "License inactive on server."
+msgstr "Лицензия неактивна на сервере."
+
+#: core/theme-dashboard/class-theme-activation.php:134
+msgid "License Information"
+msgstr "Информация о лицензии"
+
+#: core/customizer/modules/class-output.php:341
+msgid ""
+"License invalid. Troubleshooting: Check error logs (/wp-content/debug.log) "
+"or click \"Check Status\". Verify domain matches license on devster.ru."
+msgstr ""
+"Лицензия недействительна. Устранение неполадок: проверьте журналы ошибок "
+"(/wp-content/debug.log) или нажмите «Проверить статус». Убедитесь, что домен "
+"соответствует лицензии на devster.ru."
+
+#: core/customizer/modules/class-output.php:670
+msgid ""
+"License is missing or invalid. Some features (like plugin recommendations) "
+"are disabled."
+msgstr ""
+"Лицензия отсутствует или недействительна. Некоторые функции (например, "
+"рекомендации плагинов, внешний интерфейс) отключены."
+
+#: core/customizer/modules/class-output.php:978
+msgid "License key mismatch with product."
+msgstr "Несоответствие лицензионного ключа товару."
+
+#: core/customizer/modules/class-output.php:977
+msgid "License key missing or not found."
+msgstr "Лицензионный ключ отсутствует или не найден."
+
+#: core/customizer/modules/class-output.php:816
+#, php-format
+msgid ""
+"License key saved, but verification failed. Raw status: %s. Error: %s Check "
+"server settings (domain mismatch?) or contact devster.ru support."
+msgstr ""
+"Лицензионный ключ сохранён, но проверка не пройдена. Исходный статус: %s. "
+"Ошибка: %s. Проверьте настройки сервера (несоответствие домена?) или "
+"обратитесь в службу поддержки devster.ru."
+
+#: core/customizer/modules/class-output.php:348
+#, php-format
+msgid ""
+"License key saved, but verification failed. Status: %s. Check server "
+"settings or contact support."
+msgstr ""
+"Лицензионный ключ сохранён, но проверка не пройдена. Статус: %s. Проверьте "
+"настройки сервера или обратитесь в службу поддержки."
+
+#: core/customizer/modules/class-output.php:606
+#: core/promo-banner/assets/promo-banner.php:182
+#| msgid "License Key"
+msgid "License Key:"
+msgstr "Лицензионный ключ:"
+
+#: core/customizer/modules/class-output.php:751
+msgid "License not activated.."
+msgstr "Лицензия не активирована.."
+
+#: core/promo-banner/assets/promo-banner.php:659
+msgid "License not active for this site."
+msgstr "Лицензия для этого сайта не активна."
+
+#: core/customizer/modules/class-output.php:973
+msgid "License not active for this site/domain. Check activation URL."
+msgstr ""
+"Лицензия для этого сайта/домена не активна. Проверьте URL-адрес активации."
+
+#: core/customizer/modules/class-output.php:841
+#: core/promo-banner/assets/promo-banner.php:583
+msgid "License reset locally."
+msgstr "Лицензия сброшена локально."
+
+#: core/promo-banner/assets/promo-banner.php:658
+msgid "License revoked."
+msgstr "Лицензия отозвана."
+
+#: core/customizer/modules/class-output.php:972
+msgid "License revoked. Contact support."
+msgstr "Лицензия отозвана. Обратитесь в службу поддержки."
+
+#: inc/theme-mods/colors-settings.php:24
+msgid "Light"
+msgstr "Светлый режим (Light)"
+
+#: core/customizer/modules/class-fonts.php:64
+msgid "Light 200"
+msgstr "Light 200"
+
+#: core/customizer/modules/class-fonts.php:65
+msgid "Light 200 Italic"
+msgstr "Light 200 Italic"
+
+#: core/customizer/controls/class-control-typography.php:157
+msgid "Line Height"
+msgstr "Line Height"
+
+#: core/customizer/controls/class-control-typography.php:242
+msgid "Line-Through"
+msgstr "Line-Through"
+
+#: inc/filters.php:437
+msgid "Link Style"
+msgstr "Стиль ссылки"
+
+#: inc/theme-mods/miscellaneous-settings.php:83
+#: inc/theme-mods/miscellaneous-settings.php:255
+#: inc/theme-mods/miscellaneous-settings.php:427
+#: inc/theme-mods/miscellaneous-settings.php:599
+#: inc/theme-mods/miscellaneous-settings.php:772
+msgid "LinkedIn"
+msgstr "Linkedin"
+
+#: inc/custom-content.php:123
+msgid "Load Google AdSense scripts"
+msgstr "Загрузка скриптов Google AdSense"
+
+#: inc/load-more.php:91
+msgid "Load More"
+msgstr "Показать ещё"
+
+#: inc/theme-mods/homepage-settings.php:246
+msgid "Load More Button"
+msgstr "Кнопка \"Показать ещё\""
+
+#: inc/load-more.php:92
+msgid "Loading ..."
+msgstr "Загрузка..."
+
+#: inc/filters.php:445
+msgid "Location Style"
+msgstr "Стиль расположения"
+
+#: inc/theme-mods/typography-settings.php:411
+msgid "Logos"
+msgstr "Логотипы"
+
+#: core/theme-dashboard/class-theme-activation.php:641
+msgid ""
+"Looks like you’re using the same theme license on multiple websites. A "
+"website theme can only be customized to create one customized website "
+"according to the ThemeForest license terms. If you want to create a second "
+"website from the same theme, you’ll need to"
+msgstr ""
+"Похоже, вы используете одну и ту же лицензию темы на нескольких сайтах. Тема "
+"сайта может быть настроена только для создания одного настроенного сайта в "
+"соответствии с условиями лицензии. Если вы хотите создать второй сайт из той "
+"же темы, вам нужно"
+
+#: core/customizer/controls/class-control-typography.php:226
+msgid "Lowercase"
+msgstr "Lowercase"
+
+#: inc/theme-functions.php:309
+msgid "M"
+msgstr "М"
+
+#: inc/custom-content.php:30
+msgid "Main"
+msgstr "Основной"
+
+#: inc/theme-mods/site-identity.php:22
+#: inc/theme-mods/typography-settings.php:420
+msgid "Main Logo"
+msgstr "Основной логотип"
+
+#: inc/theme-mods/site-identity.php:33
+msgid "Main Logo for Dark Mode"
+msgstr "Основной логотип (Dark)"
+
+#: inc/theme-mods/header-settings.php:80
+msgid "Make navigation bar sticky"
+msgstr "Сделать панель навигации липкой"
+
+#: inc/theme-mods/homepage-settings.php:1462
+msgid "Maximum Posts"
+msgstr "Максимальное количество постов"
+
+#: core/customizer/modules/class-fonts.php:71
+msgid "Medium 500"
+msgstr "Medium 500"
+
+#: core/customizer/modules/class-fonts.php:72
+msgid "Medium 500 Italic"
+msgstr "Medium 500 Italic"
+
+#: inc/theme-mods/typography-settings.php:636
+msgid "Menu Font"
+msgstr "Шрифт меню"
+
+#: inc/custom-menu.php:143
+msgid "Menu Icon"
+msgstr "Иконка меню"
+
+#: inc/custom-menu.php:176
+msgid "Menu Item Image"
+msgstr "Изображение пункта меню"
+
+#: inc/theme-mods/miscellaneous-settings.php:11
+msgid "Miscellaneous Settings"
+msgstr "Другие настройки"
+
+#: inc/widgets-init.php:36
+msgid "Mobile (Offcanvas)"
+msgstr "Мобильные (Offcanvas)"
+
+#: functions.php:58
+msgid "Mobile Footer"
+msgstr "Футер (Мобильные)"
+
+#: inc/theme-tags.php:314
+msgid "Mobile menu button"
+msgstr "Кнопка мобильного меню"
+
+#: functions.php:57
+msgid "Mobile Primary"
+msgstr "Основной (Мобильные)"
+
+#: core/theme-dashboard/class-theme-activation.php:641
+msgid "Multiple active websites detected."
+msgstr "Обнаружено несколько активных веб-сайтов."
+
+#: inc/filters.php:921 inc/filters.php:922
+msgid "Name"
+msgstr "Имя"
+
+#: inc/theme-mods/typography-settings.php:627
+msgid "Navigation"
+msgstr "Навигация"
+
+#: archive.php:139 author.php:258 author.php:267 author.php:357 author.php:376
+#: index.php:79 inc/narrow.php:276 pages/popular-posts.php:81
+#: pages/my-feed.php:130 pages/author.php:248 pages/author.php:257
+#: pages/author.php:347 pages/author.php:366 pages/my-bookmarks.php:110
+#: inc/config/notifications.php:415
+msgid "Next"
+msgstr "Дальше"
+
+#: inc/partials.php:197
+msgid "Next page"
+msgstr "Следующая страница"
+
+#: core/promo-banner/assets/promo-banner.php:660
+#| msgid "Activations left:"
+msgid "No activations left."
+msgstr "Активаций не осталось."
+
+#: core/customizer/modules/class-output.php:974
+msgid "No activations left. Deactivate elsewhere or upgrade license."
+msgstr ""
+"Активаций не осталось. Деактивируйте в другом месте или обновите лицензию."
+
+#: core/theme-dashboard/class-theme-activation.php:520
+msgid "No connection to the server, try another time, or contact support."
+msgstr ""
+"Нет соединения с сервером, попробуйте в другой раз или обратитесь в службу "
+"поддержки."
+
+#: core/customizer/class-customizer.php:289
+msgid "No File Selected"
+msgstr "Файл не выбран"
+
+#: core/customizer/modules/class-output.php:340
+msgid "No license key. Enter to activate."
+msgstr "Лицензионного ключа нет. Введите его для активации."
+
+#: inc/gutenberg/panels.php:119 inc/theme-mods/post-settings.php:36
+#: inc/theme-mods/archive-settings.php:36 inc/theme-mods/page-settings.php:24
+#: inc/theme-mods/homepage-settings.php:71
+msgid "No Sidebar"
+msgstr "Без боковой панели"
+
+#: inc/custom-menu.php:120 inc/custom-menu.php:127 inc/custom-menu.php:155
+#: inc/gutenberg/panels.php:150 inc/theme-mods/miscellaneous-settings.php:56
+#: inc/theme-mods/miscellaneous-settings.php:228
+#: inc/theme-mods/miscellaneous-settings.php:400
+#: inc/theme-mods/miscellaneous-settings.php:572
+#: inc/theme-mods/miscellaneous-settings.php:745
+#: core/customizer/controls/class-control-typography.php:223
+#: core/customizer/controls/class-control-typography.php:239
+msgid "None"
+msgstr "Нет"
+
+#: core/customizer/modules/class-fonts.php:68
+#: core/customizer/modules/class-fonts.php:69
+msgid "Normal 400"
+msgstr "Normal 400"
+
+#: core/customizer/modules/class-fonts.php:70
+msgid "Normal 400 Italic"
+msgstr "Normal 400 Italic"
+
+#: core/promo-banner/assets/promo-banner.php:203
+msgid ""
+"Note: ZIP updates must have root structure like \"esenin/style.css\" for "
+"proper installation."
+msgstr ""
+"Примечание: для правильной установки обновления ZIP должны иметь корневую "
+"структуру типа «esenin/style.css»."
+
+#: inc/theme-mods/colors-settings.php:293
+msgid "Offcanvas Background"
+msgstr "Фон Offcanvas"
+
+#: inc/theme-mods/colors-settings.php:311
+msgid "Offcanvas Background Dark"
+msgstr "Фон Offcanvas (Dark)"
+
+#: inc/post-meta.php:134 inc/filters.php:786
+msgid "on"
+msgstr "в "
+
+#: inc/gutenberg/editor.php:151
+msgid "Orange"
+msgstr "Оранжевый"
+
+#: inc/gutenberg/panels.php:142
+msgid "Overlay"
+msgstr "Overlay"
+
+#: inc/theme-mods/colors-settings.php:984
+msgid "Overlay Background"
+msgstr "Фон Overlay"
+
+#: inc/theme-mods/colors-settings.php:1010
+msgid "Overlay Background Dark"
+msgstr "Фон Overlay (Dark)"
+
+#: core/customizer/controls/class-control-typography.php:241
+msgid "Overline"
+msgstr "Overline"
+
+#: inc/custom-content.php:45 inc/custom-content.php:85
+msgid "Page"
+msgstr "Страница"
+
+#: inc/custom-content.php:50
+msgid "Page Content"
+msgstr "Содержимое страницы"
+
+#: template-parts/page-header.php:37
+msgid "Page Not Found"
+msgstr "Страница не найдена"
+
+#: inc/theme-mods/page-settings.php:11
+msgid "Page Settings"
+msgstr "Настройки страницы"
+
+#: inc/gutenberg/panels.php:146
+msgid "Page Title Only"
+msgstr "Только заголовок страницы"
+
+#: inc/theme-mods/homepage-settings.php:241
+msgid "Pagination"
+msgstr "Пагинация"
+
+#: inc/gutenberg/editor.php:161
+msgid "Pale Pink"
+msgstr "Бледно-розовый"
+
+#: inc/theme-mods/miscellaneous-settings.php:84
+#: inc/theme-mods/miscellaneous-settings.php:256
+#: inc/theme-mods/miscellaneous-settings.php:428
+#: inc/theme-mods/miscellaneous-settings.php:600
+#: inc/theme-mods/miscellaneous-settings.php:773
+msgid "Pinterest"
+msgstr "Pinterest"
+
+#. link activation.
+#: core/theme-dashboard/class-theme-activation.php:700
+#, php-format
+msgid "Please %1$s to unlock demo content."
+msgstr "Пожалуйста, %1$s, чтобы разблокировать демо-контент."
+
+#. link activation.
+#: core/theme-dashboard/class-theme-activation.php:697
+#, php-format
+msgid "Please %1$s to unlock theme demos."
+msgstr "Пожалуйста, %1$s, чтобы разблокировать демоверсию темы."
+
+#: core/theme-dashboard/class-theme-activation.php:494
+msgid "Please agree to our terms and conditions."
+msgstr "Пожалуйста, примите наши положения и условия."
+
+#: core/customizer/modules/class-output.php:333
+msgid "Please enter a license key."
+msgstr "Введите лицензионный ключ."
+
+#: core/theme-dashboard/class-theme-activation.php:426
+msgid "Please renew your item support for any support requests. See"
+msgstr "Пожалуйста, обновите запрос на поддержку вашего товара. Подробнее"
+
+#: inc/theme-mods/miscellaneous-settings.php:115
+#: inc/theme-mods/miscellaneous-settings.php:287
+#: inc/theme-mods/miscellaneous-settings.php:459
+#: inc/theme-mods/miscellaneous-settings.php:631
+#: inc/theme-mods/miscellaneous-settings.php:804
+msgid "Please upload the 2x version of your icon via Media Library with "
+msgstr ""
+"Пожалуйста, загрузите 2x версию вашей иконки через Медиа-библиотеку с помощью"
+
+#: inc/custom-content.php:35 inc/custom-content.php:84
+msgid "Post"
+msgstr "Пост"
+
+#: inc/custom-content.php:55
+msgid "Post Author"
+msgstr "Автор поста"
+
+#: inc/theme-mods/typography-settings.php:223
+msgid "Post Category Font"
+msgstr "Шрифт категории поста"
+
+#: inc/custom-content.php:40
+msgid "Post Content"
+msgstr "Контент поста"
+
+#: inc/theme-mods/typography-settings.php:284
+msgid "Post Content Font"
+msgstr "Шрифт контента поста"
+
+#: inc/theme-mods/homepage-settings.php:1296
+msgid "Post Meta"
+msgstr "Мета поста"
+
+#: inc/theme-mods/typography-settings.php:249
+msgid "Post Meta Font"
+msgstr "Шрифт мета поста"
+
+#: inc/custom-content.php:60
+msgid "Post Pagination"
+msgstr "Пагинация поста"
+
+#: inc/theme-mods/post-settings.php:11
+msgid "Post Settings"
+msgstr "Настройки поста"
+
+#: inc/theme-mods/typography-settings.php:189
+msgid "Post Subtitle Font"
+msgstr "Шрифт подзаголовка поста"
+
+#: inc/theme-mods/typography-settings.php:155
+msgid "Post Title Font"
+msgstr "Шрифт заголовка поста"
+
+#: inc/filters.php:397
+msgid "Posts Slider"
+msgstr "Слайдер постов"
+
+#: inc/custom-menu.php:128 inc/theme-mods/miscellaneous-settings.php:57
+#: inc/theme-mods/miscellaneous-settings.php:229
+#: inc/theme-mods/miscellaneous-settings.php:401
+#: inc/theme-mods/miscellaneous-settings.php:573
+#: inc/theme-mods/miscellaneous-settings.php:746
+msgid "Preset"
+msgstr "Предустановка"
+
+#: archive.php:138 author.php:252 author.php:266 author.php:349 author.php:364
+#: index.php:78 inc/narrow.php:270 pages/popular-posts.php:75
+#: pages/my-feed.php:129 pages/author.php:242 pages/author.php:256
+#: pages/author.php:339 pages/author.php:354 pages/my-bookmarks.php:104
+#: inc/config/notifications.php:409
+msgid "Previous"
+msgstr "Назад"
+
+#: inc/partials.php:198
+msgid "Previous page"
+msgstr "Предыдущая страница"
+
+#: functions.php:55 inc/gutenberg/editor.php:116
+msgid "Primary"
+msgstr "Основной"
+
+#: inc/theme-mods/colors-settings.php:52
+msgid "Primary Color"
+msgstr "Основной цвет"
+
+#: inc/theme-mods/colors-settings.php:70
+msgid "Primary Color Dark"
+msgstr "Основной цвет (Dark)"
+
+#: inc/theme-mods/colors-settings.php:693
+msgid "Primary Dark Gradient End"
+msgstr "Основной Gradient End (Dark)"
+
+#: inc/theme-mods/colors-settings.php:643
+msgid "Primary Dark Gradient Start"
+msgstr "Основной Gradient Start (Dark)"
+
+#: inc/theme-mods/typography-settings.php:54
+msgid "Primary Font"
+msgstr "Основной шрифт"
+
+#: inc/theme-mods/colors-settings.php:668
+msgid "Primary Gradient End"
+msgstr "Основной Gradient End"
+
+#: inc/theme-mods/colors-settings.php:618
+msgid "Primary Gradient Start"
+msgstr "Основной Gradient Start"
+
+#: inc/theme-mods/colors-settings.php:718
+msgid "Primary Text Color"
+msgstr "Основной цвет текста"
+
+#: inc/theme-mods/colors-settings.php:743
+msgid "Primary Text Color Dark"
+msgstr "Основной цвет текста (Dark)"
+
+#: core/theme-dashboard/class-theme-activation.php:323
+msgid "Privacy Policy"
+msgstr "Политика"
+
+#: core/promo-banner/assets/promo-banner.php:502
+msgid "Product ID saved and caches cleared."
+msgstr "ID товара сохранён, кэш очищен."
+
+#: core/promo-banner/assets/promo-banner.php:175
+msgid "Product ID:"
+msgstr "ID товара"
+
+#: core/theme-dashboard/class-theme-activation.php:641
+msgid "purchase another license"
+msgstr "купить другую лицензию"
+
+#: core/theme-dashboard/class-theme-activation.php:398
+msgid "Purchase Code"
+msgstr "Код покупки"
+
+#: core/theme-dashboard/class-theme-activation.php:478
+msgid "Purchase code not entered."
+msgstr "Код покупки не введён."
+
+#: core/theme-dashboard/class-theme-activation.php:405
+msgid "Purchase Date"
+msgstr "Дата покупки"
+
+#. %s: Post Title
+#: inc/filters.php:860
+#, php-format
+msgid "Read More: %s"
+msgstr "Подробнее: %s"
+
+#: inc/theme-mods/homepage-settings.php:1304
+msgid "Reading time"
+msgstr "Время чтения"
+
+#: inc/gutenberg/editor.php:156
+msgid "Red"
+msgstr "Красный"
+
+#: inc/theme-mods/miscellaneous-settings.php:87
+#: inc/theme-mods/miscellaneous-settings.php:259
+#: inc/theme-mods/miscellaneous-settings.php:431
+#: inc/theme-mods/miscellaneous-settings.php:603
+#: inc/theme-mods/miscellaneous-settings.php:776
+msgid "Reddit"
+msgstr "Reddit"
+
+#: core/customizer/class-customizer.php:290
+msgid "Remove"
+msgstr "Удалить"
+
+#: inc/custom-menu.php:191 inc/custom-menu.php:230
+msgid "Remove Image"
+msgstr "Удалить изображение"
+
+#: inc/categories.php:30 inc/categories.php:73
+msgid "Remove image"
+msgstr "Удалить изображение"
+
+#: core/theme-dashboard/class-theme-activation.php:609
+msgid "renew your support license"
+msgstr "продлите лицензию на поддержку"
+
+#: core/customizer/modules/class-output.php:619
+#: core/promo-banner/assets/promo-banner.php:194
+msgid "Reset (Local Only)"
+msgstr "Сброс (локальный)"
+
+#: core/customizer/modules/class-output.php:335
+msgid "Reset failed."
+msgstr "Сброс не удался."
+
+#: core/customizer/modules/class-output.php:343
+msgid "Reset local license? This won't affect server activation."
+msgstr ""
+"Сбросить лицензию локально? Это сбросит её только на этом сайте, но не в "
+"devster.ru."
+
+#: core/customizer/modules/class-output.php:346
+msgid "Reset successful. Cache cleared."
+msgstr "Сброс выполнен. Кэш очищен."
+
+#: core/customizer/modules/class-output.php:654
+msgid "Resources"
+msgstr "Ресурсы"
+
+#: core/customizer/controls/class-control-typography.php:204
+msgid "Right"
+msgstr "Справа"
+
+#: inc/widgets-init.php:27 inc/gutenberg/panels.php:115
+#: inc/theme-mods/post-settings.php:35 inc/theme-mods/archive-settings.php:35
+#: inc/theme-mods/page-settings.php:23 inc/theme-mods/homepage-settings.php:70
+msgid "Right Sidebar"
+msgstr "Боковая панель справа"
+
+#: core/customizer/modules/class-output.php:657
+#| msgid "Sales site"
+msgid "Sales Page"
+msgstr "Страница продажи"
+
+#: inc/filters.php:934
+msgid "Save my name and email in this browser for the next time I comment."
+msgstr "Сохраните мое имя и почту в этом браузере для следующего комментария."
+
+#: core/promo-banner/assets/promo-banner.php:177
+msgid "Save Product ID"
+msgstr "Сохранить ID товара"
+
+#: inc/theme-tags.php:372 inc/theme-tags.php:682
+msgid "Scheme Toggle"
+msgstr "Переключатель схем"
+
+#: inc/theme-mods/miscellaneous-settings.php:957
+msgid "Scroll to Top"
+msgstr "Прокрутка вверх"
+
+#: inc/theme-tags.php:654
+msgid "Scroll to top button"
+msgstr "Кнопка прокрутки вверх"
+
+#: inc/theme-tags.php:333 inc/theme-mods/header-settings.php:130
+msgid "Search"
+msgstr "Поиск"
+
+#: template-parts/page-header.php:24
+msgid "Search Results:"
+msgstr "Результат поиска:"
+
+#: inc/gutenberg/editor.php:121
+msgid "Secondary"
+msgstr "Второстепенный"
+
+#: inc/theme-mods/colors-settings.php:88
+msgid "Secondary Color"
+msgstr "Второстепенный цвет"
+
+#: inc/theme-mods/colors-settings.php:106
+msgid "Secondary Color Dark"
+msgstr "Второстепенный цвет (Dark)"
+
+#: inc/theme-mods/typography-settings.php:83
+msgid "Secondary Font"
+msgstr "Второстепенный шрифт"
+
+#: inc/theme-mods/typography-settings.php:122
+msgid "Section Headings Font"
+msgstr "Шрифт заголовков разделов"
+
+#: core/customizer/class-customizer.php:292
+msgid "Select File"
+msgstr "Выберите файл"
+
+#: core/customizer/controls/class-control-typography.php:135
+msgid "Select Font Family"
+msgstr "Выберите семейство шрифтов"
+
+#: inc/custom-menu.php:153
+msgid "Select Icon"
+msgstr "Выберите иконку"
+
+#: inc/custom-menu.php:214
+msgid "Select Image"
+msgstr "Выберите изображение"
+
+#: inc/categories.php:20 inc/categories.php:59
+msgid "Select or upload image"
+msgstr "Выберите или загрузите изображение"
+
+#: core/customizer/modules/class-fonts.php:73
+#: core/customizer/modules/class-fonts.php:74
+msgid "Semi-Bold 600"
+msgstr "Semi-Bold 600"
+
+#: core/customizer/modules/class-fonts.php:75
+msgid "Semi-Bold 600 Italic"
+msgstr "Semi-Bold 600 Italic"
+
+#: inc/categories.php:20 inc/categories.php:59
+msgid "Set image"
+msgstr "Установить изображение"
+
+#: theme.json:1
+msgctxt "Shadow name"
+msgid "Standard"
+msgstr "Стандартный"
+
+#: inc/theme-tags.php:842
+msgid "Share in Linkedin"
+msgstr "Поделиться в Linkedin"
+
+#: inc/theme-tags.php:834
+msgid "Share in Twitter"
+msgstr "Поделиться в Twitter"
+
+#: inc/theme-tags.php:838
+msgid "Share on Facebook"
+msgstr "Поделиться в Facebook"
+
+#: inc/theme-mods/miscellaneous-settings.php:940
+msgid "Sidebar bottom edge"
+msgstr "Нижний край боковой панели"
+
+#: inc/theme-mods/miscellaneous-settings.php:939
+msgid "Sidebar top edge"
+msgstr "Верхний край боковой панели"
+
+#: inc/filters.php:485
+msgid "Singular Options"
+msgstr "Особые варианты"
+
+#: inc/theme-mods/colors-settings.php:167
+msgid "Site Background Color"
+msgstr "Цвет фона сайта"
+
+#: inc/theme-mods/colors-settings.php:601
+msgid "Site Buttons Color"
+msgstr "Цвет кнопок сайта"
+
+#: inc/theme-mods/colors-settings.php:19
+msgid "Site Color Scheme"
+msgstr "Расцветка сайта"
+
+#: inc/custom-content.php:25
+msgid "Site Content"
+msgstr "Содержание сайта"
+
+#: inc/theme-mods/colors-settings.php:336
+msgid "Site Header Color"
+msgstr "Цвет шапки сайта"
+
+#: inc/theme-mods/homepage-settings.php:1197
+msgid "Slider Autoplay"
+msgstr "Автовоспроизведение слайдера"
+
+#: inc/theme-mods/homepage-settings.php:1267
+msgid "Slider Parallax Effect"
+msgstr "Эффект параллакса слайдера"
+
+#: inc/theme-mods/miscellaneous-settings.php:53
+msgid "Social Link 1"
+msgstr "Социальная ссылка 1"
+
+#: inc/theme-mods/miscellaneous-settings.php:225
+msgid "Social Link 2"
+msgstr "Социальная ссылка 2"
+
+#: inc/theme-mods/miscellaneous-settings.php:397
+msgid "Social Link 3"
+msgstr "Социальная ссылка 3"
+
+#: inc/theme-mods/miscellaneous-settings.php:569
+msgid "Social Link 4"
+msgstr "Социальная ссылка 4"
+
+#: inc/theme-mods/miscellaneous-settings.php:742
+msgid "Social Link 5"
+msgstr "Социальная ссылка 5"
+
+#: inc/theme-mods/miscellaneous-settings.php:29
+msgid "Social Links"
+msgstr "Социальные ссылки"
+
+#: inc/theme-mods/miscellaneous-settings.php:75
+#: inc/theme-mods/miscellaneous-settings.php:247
+#: inc/theme-mods/miscellaneous-settings.php:419
+#: inc/theme-mods/miscellaneous-settings.php:591
+#: inc/theme-mods/miscellaneous-settings.php:764
+msgid "Social Network"
+msgstr "Социальная сеть"
+
+#: inc/gutenberg/panels.php:138
+msgid "Split"
+msgstr "Split"
+
+#: inc/gutenberg/panels.php:134 inc/theme-mods/homepage-settings.php:245
+msgid "Standard"
+msgstr "Стандартный"
+
+#: core/customizer/class-customizer.php:293
+msgid "Standard Fonts"
+msgstr "Стандартные шрифты"
+
+#: inc/theme-mods/homepage-settings.php:26
+msgid "Static Front Page"
+msgstr "Статическая главная страница"
+
+#: core/customizer/modules/class-output.php:598
+#: core/promo-banner/assets/promo-banner.php:191
+#| msgid "Status"
+msgid "Status:"
+msgstr "Статус:"
+
+#: inc/theme-mods/miscellaneous-settings.php:935
+msgid "Sticky Method"
+msgstr "Метод Sticky"
+
+#: inc/theme-mods/miscellaneous-settings.php:913
+msgid "Sticky Sidebar"
+msgstr "Боковая панель Sticky"
+
+#: inc/theme-mods/homepage-settings.php:1173
+msgid "Subheading"
+msgstr "Подзаголовок"
+
+#: inc/theme-mods/typography-settings.php:656
+msgid "Submenu Font"
+msgstr "Шрифт подменю"
+
+#: inc/theme-tags.php:590 inc/theme-tags.php:593
+#: core/theme-dashboard/class-theme-activation.php:334
+msgid "Subscribe"
+msgstr "Подписаться"
+
+#: core/theme-dashboard/class-theme-activation.php:606
+msgid "Support expired."
+msgstr "Срок поддержки истёк."
+
+#: core/theme-dashboard/class-theme-activation.php:325
+msgid "support@codesupply.co"
+msgstr "https://t.me/khlimankov"
+
+#: core/theme-dashboard/class-theme-activation.php:419
+msgid "Supported Until"
+msgstr "Поддерживается до"
+
+#: inc/theme-mods/colors-settings.php:1162
+msgid "Tag Border Radius"
+msgstr "Радиус границы тега"
+
+#: inc/theme-mods/miscellaneous-settings.php:194
+#: inc/theme-mods/miscellaneous-settings.php:366
+#: inc/theme-mods/miscellaneous-settings.php:538
+#: inc/theme-mods/miscellaneous-settings.php:710
+#: inc/theme-mods/miscellaneous-settings.php:883
+#: inc/theme-mods/header-settings.php:292
+msgid "Target"
+msgstr "Цель"
+
+#: inc/filters.php:381
+msgid "Technologies"
+msgstr "Технологии"
+
+#: inc/theme-functions.php:1573 pages/edit-profile.php:180
+#: inc/theme-mods/miscellaneous-settings.php:89
+#: inc/theme-mods/miscellaneous-settings.php:261
+#: inc/theme-mods/miscellaneous-settings.php:433
+#: inc/theme-mods/miscellaneous-settings.php:605
+#: inc/theme-mods/miscellaneous-settings.php:778
+#: template-parts/post-card/footer-meta.php:67
+#: template-parts/post-single/footer-meta.php:70
+msgid "Telegram"
+msgstr "Telegram"
+
+#: core/theme-dashboard/class-theme-activation.php:323
+msgid "Terms and Conditions"
+msgstr "Terms and Conditions"
+
+#: inc/filters.php:327
+msgid "Text"
+msgstr "Текст"
+
+#: core/customizer/controls/class-control-typography.php:181
+msgid "Text Align"
+msgstr "Выравнивание текста"
+
+#: core/customizer/controls/class-control-typography.php:236
+msgid "Text Decoration"
+msgstr "Оформление текста"
+
+#: core/customizer/controls/class-control-typography.php:220
+msgid "Text Transform"
+msgstr "Преобразование текста"
+
+#: inc/categories.php:22 inc/categories.php:61
+msgid ""
+"The category logo is displayed in its original dimensions on your website. "
+"Please upload the 2x version of your icon via the Media Library with @2x "
+"suffix for Retina display support. For example, logo@2x.png. Recommended "
+"maximum size is 100px (200px for Retina version)."
+msgstr ""
+"Логотип категории отображается в исходных размерах на вашем сайте. Загрузите "
+"версию значка 2x через библиотеку мультимедиа с суффиксом @2x для поддержки "
+"дисплеев Retina. Например, logo@2x.png. Рекомендуемый максимальный размер — "
+"100 пикселей (200 пикселей для версии Retina)."
+
+#: inc/theme-mods/typography-settings.php:447
+msgid "The footer logo is used in the site footer in desktop and mobile view."
+msgstr ""
+"Логотип футера используется в футере сайта в настольном и мобильном виде."
+
+#: inc/theme-mods/site-identity.php:51
+msgid ""
+"The footer logo is used in the site footer in desktop and mobile view. "
+"Similar to the main logo, upload the 2x version of your logo via Media "
+"Library with "
+msgstr ""
+"Логотип в футере используется в футере сайта на рабочем столе и в мобильном "
+"режиме. Аналогично основному логотипу, загрузите 2x версию вашего логотипа "
+"через медиа-библиотеку с"
+
+#: inc/theme-mods/typography-settings.php:421
+msgid ""
+"The main logo is used in the navigation bar and mobile view of your website."
+msgstr ""
+"Основной логотип используется в навигационной панели и мобильной версии "
+"вашего сайта."
+
+#: inc/theme-mods/site-identity.php:23
+msgid ""
+"The main logo is used in the navigation bar and mobile view of your website. "
+"Logo image will be displayed in its original image dimensions. Please upload "
+"the 2x version of your logo via Media Library with "
+msgstr ""
+"Основной логотип используется на панели навигации и в мобильном режиме "
+"просмотра вашего сайта. Логотип будет отображаться в исходном виде. "
+"Пожалуйста, загрузите 2x версию вашего логотипа через медиа-библиотеку с"
+
+#: core/customizer/modules/class-fonts-theme.php:135
+msgid "Theme Fonts"
+msgstr "Шрифты темы"
+
+#: core/customizer/modules/class-output.php:86
+#: core/promo-banner/assets/promo-banner.php:142
+msgid "Theme License"
+msgstr "Лицензия шаблона"
+
+#: core/theme-dashboard/class-theme-activation.php:426
+msgid "this document"
+msgstr "этот документ"
+
+#: inc/theme-mods/colors-settings.php:1087
+msgid "Thumbnail Border Radius"
+msgstr "Радиус границы миниатюры"
+
+#: inc/theme-functions.php:1585 pages/edit-profile.php:182
+msgid "TikTok"
+msgstr "TikTok"
+
+#: inc/filters.php:429
+msgid "Tile"
+msgstr "Tile"
+
+#: inc/filters.php:421
+msgid "Tiles"
+msgstr "Tiles"
+
+#: core/customizer/modules/class-output.php:752
+#, php-format
+msgid "To continue, enter your license key on the %sverification page%s."
+msgstr "Введите свой лицензионный ключ на странице %sпроверки%s."
+
+#: core/customizer/modules/class-output.php:609
+msgid "Toggle visibility"
+msgstr "Видимость ключа"
+
+#: inc/theme-mods/homepage-settings.php:1130
+msgid "Type 1"
+msgstr "Тип 1"
+
+#: inc/theme-mods/homepage-settings.php:1131
+msgid "Type 2"
+msgstr "Тип 2"
+
+#: inc/theme-mods/homepage-settings.php:1132
+msgid "Type 3"
+msgstr "Тип 3"
+
+#: inc/theme-mods/typography-settings.php:11
+msgid "Typography"
+msgstr "Типография"
+
+#: core/customizer/modules/class-fonts.php:81
+#: core/customizer/modules/class-fonts.php:82
+msgid "Ultra-Bold 900"
+msgstr "Ultra-Bold 900"
+
+#: core/customizer/modules/class-fonts.php:83
+msgid "Ultra-Bold 900 Italic"
+msgstr "Ultra-Bold 900 Italic"
+
+#: core/customizer/modules/class-fonts.php:61
+#: core/customizer/modules/class-fonts.php:62
+msgid "Ultra-Light 100"
+msgstr "Ultra-Light 100"
+
+#: core/customizer/modules/class-fonts.php:63
+msgid "Ultra-Light 100 Italic"
+msgstr "Ultra-Light 100 Italic"
+
+#: core/customizer/controls/class-control-typography.php:240
+msgid "Underline"
+msgstr "Underline"
+
+#: archive.php:160 index.php:100
+msgid "Unfortunately the page you are looking for is not available."
+msgstr "К сожалению, страница, которую вы ищете, недоступна."
+
+#: core/promo-banner/assets/promo-banner.php:663
+#, php-format
+msgid "Unknown error: %s"
+msgstr "Неизвестная ошибка: %s"
+
+#: core/customizer/modules/class-output.php:981
+#, php-format
+msgid "Unknown error: %s. Check devster.ru logs."
+msgstr "Неизвестная ошибка: %s. Проверьте логи devster.ru."
+
+#: core/customizer/modules/class-output.php:777
+#: core/promo-banner/assets/promo-banner.php:476
+msgid "Update caches cleared successfully."
+msgstr "Кэши обновлений очищены."
+
+#: core/theme-dashboard/class-theme-activation.php:297
+#: core/customizer/modules/class-output.php:632
+#: core/promo-banner/assets/promo-banner.php:201
+msgid "Updates"
+msgstr "Обновления"
+
+#: inc/custom-menu.php:187 inc/custom-menu.php:249
+msgid "Upload Image"
+msgstr "Загрузить изображение"
+
+#: inc/categories.php:29 inc/categories.php:72
+msgid "Upload image"
+msgstr "Загрузить изображение"
+
+#: core/customizer/controls/class-control-typography.php:225
+msgid "Uppercase"
+msgstr "Uppercase"
+
+#: inc/theme-mods/miscellaneous-settings.php:167
+#: inc/theme-mods/miscellaneous-settings.php:339
+#: inc/theme-mods/miscellaneous-settings.php:511
+#: inc/theme-mods/miscellaneous-settings.php:683
+#: inc/theme-mods/miscellaneous-settings.php:856
+msgid "URL"
+msgstr "URL"
+
+#: inc/custom-menu.php:215
+msgid "Use this image"
+msgstr "Используйте это изображение"
+
+#: inc/theme-mods/typography-settings.php:84
+msgid "Used for breadcrumbs and other secondary elements."
+msgstr "Используется для навигационных цепочек и других вторичных элементов."
+
+#: inc/theme-mods/typography-settings.php:55
+msgid "Used for buttons, and tags and other actionable elements."
+msgstr "Используется для кнопок, тегов и других интерактивных элементов."
+
+#: inc/theme-mods/typography-settings.php:637
+msgid "Used for main top level menu elements."
+msgstr "Используется для основных элементов меню верхнего уровня."
+
+#: inc/theme-mods/typography-settings.php:657
+msgid "Used for submenu elements."
+msgstr "Используется для элементов подменю."
+
+#: inc/theme-mods/colors-settings.php:1062
+msgid "Used on Form Elements, Blockquotes, Block Groups etc."
+msgstr "Используется в элементах форм, цитатах, группах блоков и т. д."
+
+#: inc/theme-mods/colors-settings.php:934
+msgid "Used on Form Inputs, Separators etc."
+msgstr "Используется в полях ввода форм, разделителях и т. д."
+
+#: inc/theme-mods/colors-settings.php:23
+msgid "User’s system preference"
+msgstr "Системные настройки пользователя"
+
+#: core/customizer/controls/class-control-typography.php:140
+msgid "Variant"
+msgstr "Вариант"
+
+#: inc/filters.php:297 inc/theme-mods/homepage-settings.php:1308
+msgid "Views"
+msgstr "Просмотры"
+
+#: inc/post-meta.php:247
+msgid "views"
+msgstr "просмотров"
+
+#. Description of the theme
+msgid "Viral and community theme Wordpress"
+msgstr "Viral and community theme Wordpress"
+
+#: inc/theme-mods/miscellaneous-settings.php:78
+#: inc/theme-mods/miscellaneous-settings.php:250
+#: inc/theme-mods/miscellaneous-settings.php:422
+#: inc/theme-mods/miscellaneous-settings.php:594
+#: inc/theme-mods/miscellaneous-settings.php:767
+msgid "Vkontakte"
+msgstr "Вконтакте"
+
+#: core/theme-dashboard/class-theme-activation.php:300
+msgid ""
+"We set a special price for all new themes for just a few days. Get notified "
+"of all introductory, flash and seasonal sales by signing up to our updates."
+msgstr ""
+"Мы установили специальную цену на все новые темы всего на несколько дней. "
+"Чтобы получать уведомления обо всех вступительных, срочных и сезонных "
+"распродажах, подпишитесь на наши обновления."
+
+#: inc/filters.php:466
+msgid "Website"
+msgstr "Сайт"
+
+#: inc/gutenberg/editor.php:166
+msgid "White"
+msgstr "Белый"
+
+#: core/customizer/controls/class-control-typography.php:173
+msgid "Word Spacing"
+msgstr "Word Spacing"
+
+#: inc/filters.php:389
+msgid "Work Experience"
+msgstr "Опыт работы"
+
+#: inc/theme-mods/homepage-settings.php:1149
+msgid "Wrap phrases with <span></span> tags to emphasize and highlight."
+msgstr "Чтобы подчеркнуть и выделить фразы, заключите их в теги <span></span>."
+
+#: inc/theme-mods/miscellaneous-settings.php:81
+#: inc/theme-mods/miscellaneous-settings.php:253
+#: inc/theme-mods/miscellaneous-settings.php:425
+#: inc/theme-mods/miscellaneous-settings.php:597
+#: inc/theme-mods/miscellaneous-settings.php:770
+msgid "X (Twitter)"
+msgstr "X (Twitter)"
+
+#: core/customizer/modules/class-output.php:754
+#, php-format
+msgid "You can get the license key on the %sofficial website%s."
+msgstr "Получить его можно на %sофициальном сайте%s."
+
+#: core/theme-dashboard/class-theme-activation.php:282
+msgid "You do not have sufficient rights to view this page."
+msgstr "У вас недостаточно прав для просмотра этой страницы."
+
+#: core/theme-dashboard/class-theme-activation.php:325
+msgid ""
+"You may opt-out any time by clicking the unsubscribe link in the footer of "
+"any email you receice from us, or by contacting us at"
+msgstr ""
+"Вы можете отказаться от подписки в любое время, нажав на ссылку отмены "
+"подписки в футере любого письма, которое вы получаете от нас, или связавшись "
+"с нами по адресу"
+
+#: inc/filters.php:929
+msgid "Your Comment"
+msgstr "Ваш комментарий"
+
+#: core/customizer/modules/class-output.php:647
+#: core/promo-banner/assets/promo-banner.php:202
+msgid ""
+"Your license is active. Check for updates in WP Admin → Updates. New "
+"versions will appear if available."
+msgstr ""
+"Ваша лицензия активирована. При выходе обновления темы, сюда поступит "
+"предложение по его выполнению."
+
+#: inc/filters.php:326
+msgid "Your Message"
+msgstr "Ваше сообщение"
+
+#: inc/filters.php:464
+msgid "Your Name"
+msgstr "Your Name"
+
+#. theme name and link activation.
+#: core/theme-dashboard/class-theme-activation.php:609
+#, php-format
+msgid ""
+"Your support for the %1$s theme has expired. Please %2$s for any support "
+"requests."
+msgstr ""
+"Ваша поддержка темы %1$s истекла. Пожалуйста, %2$s для любых запросов на "
+"поддержку."
+
+#: inc/theme-functions.php:1597 pages/edit-profile.php:184
+msgid "YouTube"
+msgstr "YouTube"
+
+#: inc/theme-mods/miscellaneous-settings.php:82
+#: inc/theme-mods/miscellaneous-settings.php:254
+#: inc/theme-mods/miscellaneous-settings.php:426
+#: inc/theme-mods/miscellaneous-settings.php:598
+#: inc/theme-mods/miscellaneous-settings.php:771
+msgid "Youtube"
+msgstr "Youtube"
+
+#: sidebar-left.php:58 template-parts/footer.php:24
+#: inc/theme-mods/footer-settings.php:33
+msgid "© 2025 — Esenin. All Rights Reserved."
+msgstr "© 2025 — Esenin. Все права защищены."
+
+#: pages/edit-profile.php:82 pages/edit-profile.php:198
+msgid "Аватар"
+msgstr "Аватар"
+
+#: inc/config/user-avatar.php:294
+msgid ""
+"Аватар для вашего профиля не установлен. Используйте поле загрузки, чтобы "
+"добавить его."
+msgstr ""
+"Аватар для вашего профиля не установлен. Используйте поле загрузки, чтобы "
+"добавить его."
+
+#: inc/config/user-avatar.php:299
+msgid "Аватар не установлен. Настройте его на gravatar.com."
+msgstr "Аватар не установлен. Настройте его на gravatar.com."
+
+#: inc/theme-functions.php:1689
+msgid "Автор"
+msgstr "Автор"
+
+#: inc/theme-functions.php:1689
+msgid "Автор этого поста"
+msgstr "Автор этого поста"
+
+#: template-parts/user/head_user_notlogged.php:17
+msgid "Авторизация"
+msgstr "Авторизация"
+
+#: template-parts/user/head_user_logged.php:64
+msgid "Админ-панель"
+msgstr "Панель управления"
+
+#: inc/theme-functions.php:1733
+msgid "Ваш комментарий на модерации."
+msgstr "Ваш комментарий на модерации."
+
+#: inc/auth.php:597
+msgid "Ваш новый пароль: "
+msgstr "Ваш новый пароль: "
+
+#: pages/edit-profile.php:41
+msgid "Ваш профиль обновлён."
+msgstr "Ваш профиль обновлён."
+
+#: inc/config/karma.php:104 inc/config/karma.php:133
+msgid "Ваш рейтинг"
+msgstr "Ваш рейтинг"
+
+#: inc/auth.php:533
+msgid "Ваша почта"
+msgstr "Ваша почта"
+
+#: inc/narrow.php:337
+msgid "Введите значение кармы для этого пользователя"
+msgstr "Введите значение кармы для этого пользователя"
+
+#: inc/config/users-list.php:66
+msgid "Вернуться к списку"
+msgstr "Вернуться к списку"
+
+#: inc/auth.php:547
+msgid "Вернуться назад"
+msgstr "Вернуться назад"
+
+#: inc/widgets/wid-custom-posts.php:13
+msgid ""
+"Виджет для отображения случайных, новых, популярных или просматриваемых "
+"постов."
+msgstr ""
+"Виджет для отображения случайных, новых, популярных или просматриваемых "
+"постов."
+
+#: inc/widgets/wid-latest-comments.php:9
+msgid "Виджет с выводом последних комментариев с поддержкой AJAX обновлений"
+msgstr "Виджет с выводом последних комментариев с поддержкой AJAX обновлений."
+
+#: inc/widgets/wid-top-authors.php:12
+msgid "Виджет с выводом рейтинга авторов на основе кармы"
+msgstr "Виджет с выводом рейтинга авторов на основе кармы"
+
+#: inc/widgets/wid-themes.php:12
+msgid "Виджет со списком тем (категорий)"
+msgstr "Виджет со списком тем (категорий)."
+
+#: inc/oauth2.php:27
+msgid "Включить Google"
+msgstr "Включить Google"
+
+#: inc/oauth2.php:31
+msgid "Включить Яндекс"
+msgstr "Включить Яндекс"
+
+#: inc/theme-functions.php:1567 pages/edit-profile.php:179
+#: template-parts/post-card/footer-meta.php:63
+#: template-parts/post-single/footer-meta.php:66
+msgid "Вконтакте"
+msgstr "Вконтакте"
+
+#: inc/auth.php:155 inc/auth.php:215
+#: template-parts/user/head_user_notlogged.php:10
+msgid "Войти"
+msgstr "Войти"
+
+#: inc/config/notifications.php:165
+msgid "Все уведомления"
+msgstr "Все уведомления"
+
+#: inc/config/notifications.php:277 inc/config/notifications.php:443
+msgid "Все уведомления удалены"
+msgstr "Все уведомления удалены"
+
+#: inc/config/user-online.php:192
+msgid "Всего пользователей: "
+msgstr "Всего пользователей: "
+
+#: inc/filter/in_popular_posts.php:9
+msgid "Всё время"
+msgstr "Всё время"
+
+#: inc/oauth2.php:10
+msgid "Вход через OAuth"
+msgstr "Вход через OAuth"
+
+#: inc/config/notifications.php:585
+msgid "Вы не авторизованы."
+msgstr "Вы не авторизованы."
+
+#: inc/auth.php:98
+msgid "Вы не забыли указать свой логин?"
+msgstr "Вы не забыли указать свой логин?"
+
+#: inc/auth.php:86
+#, php-format
+msgid "Вы уже авторизованы на сайте. <a href=\"%s\">Выйти</a>."
+msgstr "Вы уже авторизованы на сайте. <a href=\"%s\">Выйти</a>."
+
+#: inc/auth.php:282
+msgid "Выбранный логин недоступен"
+msgstr "Выбранный логин недоступен"
+
+#: template-parts/user/head_user_logged.php:70
+msgid "Выйти"
+msgstr "Выйти"
+
+#: inc/filter/in_popular_posts.php:8
+msgid "Год"
+msgstr "Год"
+
+#: inc/theme-functions.php:1557 pages/edit-profile.php:139
+msgid "Город"
+msgstr "Город"
+
+#: inc/config/notifications.php:535
+msgid "Гости профиля"
+msgstr "Гости профиля"
+
+#: inc/config/users-list.php:149
+msgid "Дальше"
+msgstr "Дальше"
+
+#: author.php:417 pages/author.php:407
+msgid "Данные отсутствуют"
+msgstr "Данные отсутствуют"
+
+#: inc/config/notifications.php:486
+msgid "Для изменения настроек уведомлений требуется авторизация."
+msgstr "Для изменения настроек уведомлений требуется авторизация."
+
+#: pages/edit-profile.php:149
+msgid "Для изменения пароля укажите старый."
+msgstr "Для изменения пароля укажите старый."
+
+#: inc/config/bookmarks.php:84
+msgid "Добавить в закладки"
+msgstr "Добавить в закладки"
+
+#: template-parts/header.php:46 template-parts/user/head_user_logged.php:36
+msgid "Добавить пост"
+msgstr "Добавить пост"
+
+#: inc/widgets/wid-themes.php:83
+msgid "Доп. class CSS:"
+msgstr "Доп. class CSS:"
+
+#: inc/theme-functions.php:1548
+msgid "Дополнительная информация"
+msgstr "Дополнительная информация"
+
+#: inc/auth.php:400
+msgid ""
+"Если это были не вы и кто-то по ошибке указал вашу почту, просто не "
+"обращайте внимания на это письмо. Неподтверждённый профиль будет удалён "
+"автоматически."
+msgstr ""
+"Если это были не вы и кто-то по ошибке указал вашу почту, просто не "
+"обращайте внимания на это письмо. Неподтверждённый профиль будет удалён "
+"автоматически."
+
+#: inc/auth.php:213
+msgid "Есть аккаунт?"
+msgstr "Есть аккаунт?"
+
+#: inc/config/karma.php:156
+msgid "За что начисляется?"
+msgstr "За что начисляется?"
+
+#: inc/auth.php:151
+msgid "Забыли пароль?"
+msgstr "Забыли пароль?"
+
+#: inc/widgets/wid-custom-posts.php:140 inc/widgets/wid-themes.php:79
+#: inc/widgets/wid-top-authors.php:74 inc/widgets/wid-latest-comments.php:214
+msgid "Заголовок:"
+msgstr "Заголовок:"
+
+#: pages/edit-profile.php:199
+msgid "Загрузите или измените аватар вашего профиля."
+msgstr "Загрузите или измените аватар вашего профиля."
+
+#: inc/widgets/wid-latest-comments.php:33
+msgid "Загрузка комментариев.."
+msgstr "Загрузка комментариев.."
+
+#: template-parts/user/head_user_logged.php:52
+msgid "Закладки"
+msgstr "Закладки"
+
+#: pages/my-bookmarks.php:87
+msgid "Закладок пока нет.."
+msgstr "Закладок пока нет.."
+
+#: inc/config/user-avatar.php:296
+msgid "Замените аватар, загрузив новый, или удалите его."
+msgstr "Замените аватар, загрузив новый, или удалите его."
+
+#: inc/auth.php:146
+msgid "Запомнить"
+msgstr "Запомнить"
+
+#: inc/auth.php:209
+msgid "Зарегистрироваться"
+msgstr "Зарегистрироваться"
+
+#: author.php:281 pages/author.php:271
+msgid "Здесь пока ничего нет"
+msgstr "Здесь пока ничего нет"
+
+#: pages/my-feed.php:142 pages/my-feed.php:151 pages/my-feed.php:156
+msgid "Здесь пока пусто.."
+msgstr "Здесь пока пусто.."
+
+#: pages/edit-profile.php:148
+msgid "Изменение пароля"
+msgstr "Изменение пароля"
+
+#: inc/theme-functions.php:1785 inc/theme-functions.php:1791
+msgid "Изменить"
+msgstr "Изменить"
+
+#: inc/auth.php:204 inc/auth.php:532 inc/auth.php:541 pages/edit-profile.php:99
+msgid "Имя"
+msgstr "Имя"
+
+#: inc/auth.php:110
+msgid "Инструкции по сбросу пароля отправлены на вашу почту"
+msgstr "Инструкции по сбросу пароля отправлены на вашу почту"
+
+#: inc/widgets/wid-latest-comments.php:226
+msgid "Интервал обновления (секунд):"
+msgstr "Интервал обновления (секунд):"
+
+#: inc/widgets/wid-custom-posts.php:135
+msgid "Интересное"
+msgstr "Интересное"
+
+#: inc/widgets/wid-latest-comments.php:223
+msgid "Использовать AJAX обновление?"
+msgstr "Использовать AJAX обновление?"
+
+#: inc/narrow.php:308 inc/narrow.php:334
+msgid "Карма"
+msgstr "Карма"
+
+#: inc/narrow.php:331
+msgid "Карма пользователя"
+msgstr "Карма пользователя"
+
+#: inc/widgets/wid-custom-posts.php:153 inc/widgets/wid-top-authors.php:78
+#: inc/widgets/wid-latest-comments.php:218
+msgid "Количество:"
+msgstr "Количество:"
+
+#: author.php:203 pages/author.php:193
+msgid "Комментарии"
+msgstr "Комментарии"
+
+#: comments.php:79
+msgid "Комментарии закрыты."
+msgstr "Комментарии закрыты."
+
+#: author.php:316 inc/theme-functions.php:1736 pages/author.php:306
+#: inc/widgets/wid-latest-comments.php:74
+#: inc/widgets/wid-latest-comments.php:278
+#: template-parts/post-card/footer-last-comment.php:28
+msgid "Комментарий удалён.."
+msgstr "Комментарий удалён.."
+
+#: template-parts/post-card/header-meta.php:99
+msgid "Контент для взрослых"
+msgstr "Контент для взрослых"
+
+#: template-parts/post-card/footer-meta.php:72
+#: template-parts/post-single/footer-meta.php:75
+msgid "Копировать"
+msgstr "Копировать"
+
+#: template-parts/post-card/footer-meta.php:70
+#: template-parts/post-single/footer-meta.php:73
+msgid "Копировать ссылку"
+msgstr "Копировать ссылку"
+
+#: inc/theme-functions.php:2088
+msgid "Личные сообщения"
+msgstr "Личные сообщения"
+
+#: template-parts/user/head_user_logged.php:27
+msgid "Личный блог"
+msgstr "Личный блог"
+
+#: inc/auth.php:129 inc/auth.php:202
+msgid "Логин"
+msgstr "Логин"
+
+#: inc/auth.php:292
+msgid "Логин должен содержать не менее 4 символов"
+msgstr "Логин должен содержать не менее 4 символов"
+
+#: inc/auth.php:247
+msgid "Логин может содержать только латинские буквы и цифры"
+msgstr "Логин может содержать только латинские буквы и цифры"
+
+#: inc/auth.php:286
+msgid "Логин уже занят"
+msgstr "Логин уже занят"
+
+#: inc/filter/in_popular_posts.php:7
+msgid "Месяц"
+msgstr "Месяц"
+
+#: inc/start-pages.php:43
+msgid "Мои закладки"
+msgstr "Мои закладки"
+
+#: inc/start-pages.php:33
+msgid "Мои подписки"
+msgstr "Мои подписки"
+
+#: template-parts/user/head_user_logged.php:41
+msgid "Мои статьи"
+msgstr "Мои статьи"
+
+#: inc/start-pages.php:48
+msgid "Мои уведомления"
+msgstr "Мои уведомления"
+
+#: inc/config/users-list.php:119
+msgid "Мой профиль"
+msgstr "Мой профиль"
+
+#: inc/start-pages.php:38
+msgid "Моя лента"
+msgstr "Моя лента"
+
+#: template-parts/user/head_user_notlogged.php:106
+msgid ""
+"Мы отправили вам письмо с подтверждением вашего адреса электронной почты. "
+"Пожалуйста, проверьте вашу входящую почту или спам."
+msgstr ""
+"Мы отправили вам письмо с подтверждением вашего адреса электронной почты. "
+"Пожалуйста, проверьте вашу входящую почту или спам."
+
+#: inc/config/users-list.php:141
+msgid "Назад"
+msgstr "Назад"
+
+#: searchform.php:14 template-parts/site-search.php:16
+#: inc/config/users-list.php:58
+msgid "Найти"
+msgstr "Найти"
+
+#: template-parts/user/head_user_notlogged.php:154
+msgid "Нам жаль.."
+msgstr "Нам жаль.."
+
+#: author.php:55
+msgid "Написать сообщение"
+msgstr "Написать сообщение"
+
+#: inc/oauth2.php:16
+msgid "Настройка авторизации через сервисы (Esenin)"
+msgstr "Настройка авторизации через сервисы (Esenin)"
+
+#: inc/config/notifications.php:173
+msgid "Настройка получения"
+msgstr "Настройка получения"
+
+#: author.php:65 pages/author.php:55
+#: template-parts/user/head_user_logged.php:57
+msgid "Настройки"
+msgstr "Настройки"
+
+#: inc/oauth2.php:38
+msgid "Настройки Google"
+msgstr "Настройки Google"
+
+#: inc/oauth2.php:56
+msgid "Настройки Яндекс"
+msgstr "Настройки Яндекс"
+
+#: inc/oauth2.php:24
+msgid "Настройки отображения"
+msgstr "Настройки отображения"
+
+#: inc/config/notifications.php:160 inc/config/notifications.php:361
+msgid "Настройки показа"
+msgstr "Настройки показа"
+
+#: inc/config/notifications.php:606
+msgid "Настройки получения сохранены."
+msgstr "Настройки получения сохранены."
+
+#: inc/start-pages.php:13
+msgid "Настройки профиля"
+msgstr "Настройки профиля"
+
+#: comments.php:24
+msgid "Начать дискуссию"
+msgstr "Начать дискуссию"
+
+#: inc/config/users-list.php:103
+msgid "Не активен"
+msgstr "Не активен"
+
+#: template-parts/user/head_user_notlogged.php:163
+msgid ""
+"Не удалось отправить письмо для подтверждения. Пожалуйста, попробуйте позже."
+msgstr ""
+"Не удалось отправить письмо для подтверждения. Пожалуйста, попробуйте позже."
+
+#: inc/auth.php:578
+msgid "Неверный адрес электронной почты."
+msgstr "Неверный адрес электронной почты."
+
+#: inc/auth.php:107
+msgid "Неверный пароль."
+msgstr "Неверный пароль."
+
+#: inc/auth.php:117
+msgid "Недействительный ключ."
+msgstr "Неверный пароль."
+
+#: inc/filter/in_popular_posts.php:6
+msgid "Неделя"
+msgstr "Неделя"
+
+#: inc/auth.php:300
+msgid "Некорректная почта"
+msgstr "Некорректная почта"
+
+#: inc/auth.php:57
+msgid "Неподтверждённый"
+msgstr "Неподтверждённый"
+
+#: inc/config/notifications.php:258 inc/config/notifications.php:263
+#: inc/config/notifications.php:464 inc/config/notifications.php:468
+msgid "Непрочитанных нет"
+msgstr "Непрочитанных нет"
+
+#: inc/auth.php:161
+msgid "Нет аккаунта? "
+msgstr "Нет аккаунта? "
+
+#: inc/config/user-online.php:139
+msgid "Никто недавно не заходил."
+msgstr "Никто недавно не заходил."
+
+#: inc/ajax-search.php:41
+msgid "Ничего не найдено"
+msgstr "Ничего не найдено"
+
+#: inc/widgets/wid-custom-posts.php:147
+msgid "Новые"
+msgstr "Новые"
+
+#: inc/config/notifications.php:519
+msgid "Новые комментарии к постам"
+msgstr "Новые комментарии к постам"
+
+#: inc/config/notifications.php:523
+msgid "Новые подписчики"
+msgstr "Новые подписчики"
+
+#: inc/config/user-online.php:193
+msgid "Новые регистрации: "
+msgstr "Новые регистрации: "
+
+#: pages/edit-profile.php:165 template-parts/user/head_user_notlogged.php:78
+msgid "Новый пароль"
+msgstr "Новый пароль"
+
+#: inc/config/notifications.php:195 inc/config/notifications.php:368
+msgid "Новых уведомлений нет"
+msgstr "Новых уведомлений нет"
+
+#: author.php:209 pages/author.php:199 pages/edit-profile.php:141
+msgid "О себе"
+msgstr "О себе"
+
+#: inc/config/user-avatar.php:309
+msgid "Обновить"
+msgstr "Обновить"
+
+#: template-parts/post-card/header-meta.php:77
+msgid "Обновлено"
+msgstr "Обновлено"
+
+#: inc/widgets/wid-latest-comments.php:18
+#: inc/widgets/wid-latest-comments.php:209
+msgid "Обсуждают"
+msgstr "Обсуждают"
+
+#: inc/config/notifications.php:531
+msgid "Одобрения постов и комментариев"
+msgstr "Одобрения постов и комментариев"
+
+#: inc/config/user-online.php:129
+msgid "Онлайн-пользователей нет."
+msgstr "Онлайн-пользователей нет."
+
+#: archive.php:64
+msgid "Описание"
+msgstr "Описание"
+
+#: archive.php:177
+msgid "Описание не задано.."
+msgstr "Описание не задано.."
+
+#: template-parts/post-card/header-meta.php:79
+msgid "Опубликован"
+msgstr "Опубликован"
+
+#: pages/edit-profile.php:73
+msgid "Основные"
+msgstr "Основные"
+
+#: pages/edit-profile.php:94
+msgid "Основные настройки"
+msgstr "Основные настройки"
+
+#: comments.php:65
+msgid "Оставить комментарий"
+msgstr "Оставить комментарий"
+
+#: template-parts/post-card/footer-last-comment.php:16
+msgid "Оставьте комментарий"
+msgstr "Оставьте комментарий"
+
+#: author.php:331 pages/author.php:321 inc/widgets/wid-latest-comments.php:88
+#: inc/widgets/wid-latest-comments.php:291
+#: template-parts/post-card/footer-meta.php:33
+#: template-parts/post-single/footer-meta.php:36
+msgid "Ответить"
+msgstr "Ответить"
+
+#: inc/config/notifications.php:515
+msgid "Ответы на комментарии"
+msgstr "Ответы на комментарии"
+
+#: inc/auth.php:607
+#| msgid "Проверьте свою почту на наличие нового пароля."
+msgid "Отлично! Проверьте свою почту на наличие нового пароля."
+msgstr "Отлично! Проверьте свою почту на наличие нового пароля."
+
+#: comments.php:69 inc/theme-functions.php:1746
+msgid "Отменить"
+msgstr "Отменить"
+
+#: inc/config/user-subscription.php:78 inc/config/category-subscription.php:36
+msgid "Отписаться"
+msgstr "Отписаться"
+
+#: comments.php:68
+msgid "Отправить"
+msgstr "Отправить"
+
+#: inc/likers.php:119 inc/likers.php:162 inc/likers-comments.php:133
+msgid "Оценивших нет"
+msgstr "Оценивших нет"
+
+#: inc/config/karma.php:167
+msgid "Оценили ваш комментарий:"
+msgstr "Оценили ваш комментарий:"
+
+#: inc/config/karma.php:165
+msgid "Оценили ваш пост:"
+msgstr "Оценили ваш пост:"
+
+#: inc/config/notifications.php:527
+msgid "Оценки постов и комментариев"
+msgstr "Оценки постов и комментариев"
+
+#: inc/config/notifications.php:205
+msgid "Ошибка загрузки уведомлений"
+msgstr "Ошибка загрузки уведомлений"
+
+#: inc/oauth2.php:227
+msgid "Ошибка получения информации о пользователе от "
+msgstr "Ошибка получения информации о пользователе от "
+
+#: inc/oauth2.php:213
+msgid "Ошибка получения токена доступа от "
+msgstr "Ошибка получения токена доступа от "
+
+#: inc/config/notifications.php:279 inc/config/notifications.php:284
+#: inc/config/notifications.php:445 inc/config/notifications.php:449
+msgid "Ошибка при удалении уведомлений"
+msgstr "Ошибка при удалении уведомлений"
+
+#: inc/oauth2.php:296
+msgid "Ошибка создания пользователя: "
+msgstr "Ошибка создания пользователя: "
+
+#: inc/oauth2.php:218
+msgid "Ошибка: "
+msgstr "Ошибка: "
+
+#: inc/auth.php:315
+msgid "Пароли не совпадают"
+msgstr "Пароли не совпадают"
+
+#: pages/edit-profile.php:53
+msgid "Пароли не совпадают."
+msgstr "Пароли не совпадают."
+
+#: inc/auth.php:131 inc/auth.php:205 pages/edit-profile.php:76
+msgid "Пароль"
+msgstr "Пароль"
+
+#: inc/auth.php:311
+msgid "Пароль должен содержать минимум 6 символов"
+msgstr "Пароль должен содержать минимум 6 символов"
+
+#: inc/auth.php:113
+msgid "Пароль изменён"
+msgstr "Пароль изменён"
+
+#: pages/edit-profile.php:49
+msgid "Пароль слишком короткий."
+msgstr "Пароль слишком короткий."
+
+#: inc/auth.php:545
+msgid "Передумали?"
+msgstr "Передумали?"
+
+#: inc/config/notifications.php:195
+msgid "Пишите хорошие статьи, комментируйте, и здесь станет не так пусто"
+msgstr "Пишите хорошие статьи, комментируйте, и здесь станет не так пусто"
+
+#: pages/edit-profile.php:166
+msgid "Повторите новый пароль"
+msgstr "Повторите новый пароль"
+
+#: template-parts/post-card/footer-meta.php:56
+#: template-parts/post-single/footer-meta.php:59
+msgid "Поделиться"
+msgstr "Поделиться"
+
+#: inc/narrow.php:290 template-parts/post-card/footer-meta.php:61
+#: template-parts/post-single/footer-meta.php:64
+msgid "Поделиться Вконтакте"
+msgstr "Поделиться Вконтакте"
+
+#: inc/config/user-subscription.php:78 inc/config/category-subscription.php:36
+#: inc/config/category-subscription.php:40
+msgid "Подписаться"
+msgstr "Подписаться"
+
+#: inc/config/user-subscription.php:215
+#: template-parts/user/head_user_logged.php:47
+msgid "Подписки"
+msgstr "Подписки"
+
+#: pages/my-subscriptions.php:134
+msgid "Подписок на пользователей нет.."
+msgstr "Подписок на пользователей нет.."
+
+#: pages/my-subscriptions.php:204
+msgid "Подписок на темы нет.."
+msgstr "Подписок на темы нет.."
+
+#: inc/config/user-subscription.php:275
+#: inc/config/category-subscription.php:165
+msgid "Подписчики"
+msgstr "Подписчики"
+
+#: inc/auth.php:206
+msgid "Подтвердите пароль"
+msgstr "Подтвердите пароль"
+
+#: template-parts/user/head_user_notlogged.php:97
+msgid "Подтвердите почту"
+msgstr "Подтвердите почту"
+
+#: inc/auth.php:398
+msgid "Подтвердить"
+msgstr "Подтвердить"
+
+#: inc/auth.php:341
+msgid "Подтверждение почты"
+msgstr "Подтверждение почты"
+
+#: inc/auth.php:296
+msgid "Пожалуйста, добавьте логин"
+msgstr "Пожалуйста, добавьте логин"
+
+#: inc/auth.php:309
+msgid "Пожалуйста, задайте пароль"
+msgstr "Пожалуйста, задайте пароль"
+
+#: pages/edit-profile.php:61
+msgid "Пожалуйста, заполните все обязательные поля."
+msgstr "Пожалуйста, заполните все обязательные поля."
+
+#: inc/auth.php:101
+msgid "Пожалуйста, укажите пароль."
+msgstr "Пожалуйста, укажите пароль."
+
+#: searchform.php:11 template-parts/site-search.php:13
+msgid "Поиск"
+msgstr "Поиск"
+
+#: inc/config/users-list.php:57
+msgid "Поиск пользователя"
+msgstr "Поиск пользователя"
+
+#: pages/popular-posts.php:102
+msgid "Пока не найдены.."
+msgstr "Пока не найдены.."
+
+#: inc/auth.php:62 inc/auth.php:120
+msgid "Пока отказано. Почта не подтверждена."
+msgstr "Пока отказано. Почта не подтверждена."
+
+#: inc/widgets/wid-themes.php:47
+msgid "Показать ещё"
+msgstr "Показать ещё"
+
+#: inc/auth.php:133
+msgid "Показать пароль"
+msgstr "Показать пароль"
+
+#: inc/oauth2.php:50
+msgid "Получить данные для настройки Google можно в"
+msgstr "Получить данные для настройки Google можно в"
+
+#: inc/oauth2.php:68
+msgid "Получить данные для настройки Яндекс можно в"
+msgstr "Получить данные для настройки Яндекс можно в"
+
+#: inc/auth.php:580
+msgid "Пользователей с указанной почтой нет.."
+msgstr "Пользователей с указанной почтой нет.."
+
+#: inc/start-pages.php:23 pages/my-subscriptions.php:55
+#: inc/config/users-list.php:45
+msgid "Пользователи"
+msgstr "Пользователи"
+
+#: inc/config/users-list.php:131
+msgid "Пользователи не найдены.."
+msgstr "Пользователи не найдены.."
+
+#: inc/config/user-online.php:197
+msgid "Пользователи онлайн: "
+msgstr "Пользователи онлайн: "
+
+#: author.php:386 pages/author.php:376
+msgid "Пользователь не комментировал"
+msgstr "Пользователь не комментировал"
+
+#: pages/edit-profile.php:45
+msgid "Пользователь с указанной почтой уже существует."
+msgstr "Пользователь с указанной почтой уже существует."
+
+#: inc/filter/in_themes--authors.php:5
+msgid "Популярное"
+msgstr "Популярное"
+
+#: inc/widgets/wid-custom-posts.php:148
+msgid "Популярные"
+msgstr "Популярные"
+
+#: inc/start-pages.php:18
+msgid "Популярные статьи"
+msgstr "Популярные статьи"
+
+#: inc/widgets/wid-top-authors.php:61
+msgid "Популярных пока нет.."
+msgstr "Популярных пока нет.."
+
+#: author.php:197 pages/author.php:187
+msgid "Посты"
+msgstr "Посты"
+
+#: inc/auth.php:203 pages/edit-profile.php:136
+msgid "Почта"
+msgstr "Почта"
+
+#: inc/auth.php:242
+msgid "Почта не попадает под белый список"
+msgstr "Почта не попадает под белый список"
+
+#: pages/my-bookmarks.php:120
+msgid "Предыдущая"
+msgstr "Предыдущая"
+
+#: template-parts/post-single/entry-prev-next.php:34
+msgid "Предыдущая статья"
+msgstr "Предыдущая статья"
+
+#: inc/auth.php:392
+msgid "Приветствуем вас, "
+msgstr "Приветствуем вас, "
+
+#: inc/oauth2.php:146
+msgid "Продолжить с Google"
+msgstr "Продолжить с Google"
+
+#: inc/oauth2.php:136
+msgid "Продолжить с Яндекс"
+msgstr "Продолжить с Яндекс"
+
+#: inc/config/notifications.php:567
+msgid "Произошла ошибка, попробуйте позже."
+msgstr "Произошла ошибка, попробуйте позже."
+
+#: inc/widgets/wid-custom-posts.php:149
+msgid "Просматриваемые"
+msgstr "Просматриваемые"
+
+#: inc/post-meta.php:310
+msgid "Просмотры"
+msgstr "Просмотры"
+
+#: inc/config/notifications.php:159 inc/config/notifications.php:359
+msgid "Прочитать все"
+msgstr "Прочитать все"
+
+#: inc/config/karma.php:163
+msgid "Публикация комментария:"
+msgstr "Публикация комментария:"
+
+#: inc/config/karma.php:161
+msgid "Публикация поста:"
+msgstr "Публикация поста:"
+
+#: pages/edit-profile.php:95
+msgid "Публичные данные, видимые в профиле."
+msgstr "Публичные данные, видимые в профиле."
+
+#: inc/narrow.php:293 template-parts/post-card/footer-meta.php:65
+#: template-parts/post-single/footer-meta.php:68
+msgid "Разместить в Telegram"
+msgstr "Разместить в Telegram"
+
+#: inc/config/user-avatar.php:90
+msgid "Разрешения для локального аватара"
+msgstr "Разрешения для локального аватара"
+
+#: inc/theme-functions.php:1789
+msgid "Разрешено 30 минут"
+msgstr "Разрешено 30 минут"
+
+#: inc/config/user-avatar.php:99
+msgid ""
+"Разрешить загружать локальные аватары только пользователям с возможностью "
+"загрузки файлов (авторы и выше)"
+msgstr ""
+"Разрешить загружать локальные аватары только пользователям с возможностью "
+"загрузки файлов (авторы и выше)"
+
+#: inc/auth.php:161 template-parts/user/head_user_notlogged.php:59
+msgid "Регистрация"
+msgstr "Регистрация"
+
+#: inc/auth.php:220
+msgid "Регистрируясь, вы соглашаетесь с"
+msgstr "Регистрируясь, вы соглашаетесь с"
+
+#: template-parts/post-card/footer-meta.php:104
+#: template-parts/post-single/footer-meta.php:109
+msgid "Редактировать пост"
+msgstr "Редактировать пост"
+
+#: inc/config/users-list.php:65
+msgid "Результат поиска:"
+msgstr "Результат поиска:"
+
+#: inc/config/karma.php:133
+msgid "Рейтинг"
+msgstr "Рейтинг"
+
+#: inc/config/karma.php:104
+msgid "Рейтинг пользователя"
+msgstr "Рейтинг пользователя"
+
+#: inc/auth.php:278
+msgid "СПАМ-фильтр: в регистрации отказано!"
+msgstr "СПАМ-фильтр: в регистрации отказано!"
+
+#: template-parts/user/head_user_notlogged.php:144
+msgid "Сайт не готов принять такую важную персону."
+msgstr "Сайт не готов принять такую важную персону."
+
+#: template-parts/user/head_user_notlogged.php:37
+msgid "Сброс пароля"
+msgstr "Сброс пароля"
+
+#: inc/filter/in_themes--authors.php:4
+msgid "Свежее"
+msgstr "Свежее"
+
+#: inc/auth.php:594
+msgid "Сгенерированный пароль"
+msgstr "Сгенерированный пароль"
+
+#: inc/config/user-online.php:116
+msgid "Сейчас на сайте"
+msgstr "Сейчас на сайте"
+
+#: inc/config/user-online.php:196
+msgid "Сейчас на сайте: "
+msgstr "Сейчас на сайте: "
+
+#: template-parts/post-card/footer-meta.php:118
+#: template-parts/post-single/footer-meta.php:123
+msgid "Скрытый контент"
+msgstr "Скрытый контент"
+
+#: inc/auth.php:137
+msgid "Скрыть пароль"
+msgstr "Скрыть пароль"
+
+#: pages/my-bookmarks.php:121
+msgid "Следующая"
+msgstr "Следующая"
+
+#: template-parts/post-single/entry-prev-next.php:68
+msgid "Следующая статья"
+msgstr "Следующая статья"
+
+#: inc/widgets/wid-custom-posts.php:146
+msgid "Случайные"
+msgstr "Случайные"
+
+#: inc/auth.php:542
+msgid "Создать новый пароль"
+msgstr "Создать новый пароль"
+
+#: inc/theme-functions.php:1745 pages/edit-profile.php:143
+#: pages/edit-profile.php:169 pages/edit-profile.php:186
+#: inc/config/notifications.php:538
+msgid "Сохранить"
+msgstr "Сохранить"
+
+#: inc/theme-functions.php:1564 pages/edit-profile.php:175
+msgid "Социальные сети"
+msgstr "Социальные сети"
+
+#: pages/edit-profile.php:79
+msgid "Социальные ссылки"
+msgstr "Социальные ссылки"
+
+#: inc/oauth2.php:355
+msgid "Способ входа"
+msgstr "Способ входа"
+
+#: inc/oauth2.php:51 inc/oauth2.php:69
+msgid "Ссылка для редиректа:"
+msgstr "Ссылка для редиректа:"
+
+#: template-parts/user/head_user_notlogged.php:125
+msgid "Ссылка подтверждения больше недействительна или уже была использована."
+msgstr "Ссылка подтверждения больше недействительна или уже была использована."
+
+#: pages/edit-profile.php:176
+msgid "Ссылки на ваши аккаунты в социальных сетях."
+msgstr "Ссылки на ваши аккаунты в социальных сетях."
+
+#: pages/edit-profile.php:154
+msgid "Старый пароль"
+msgstr "Старый пароль"
+
+#: pages/edit-profile.php:57
+msgid "Старый пароль неверен."
+msgstr "Старый пароль неверен."
+
+#: inc/config/user-online.php:146
+msgid "Статистика пользователей"
+msgstr "Статистика пользователей"
+
+#: archive.php:61
+msgid "Статьи"
+msgstr "Статьи"
+
+#: inc/auth.php:104
+msgid "Таких пользователей на сайте нет."
+msgstr "Таких пользователей на сайте нет."
+
+#: pages/my-subscriptions.php:58
+msgid "Темы"
+msgstr "Темы"
+
+#: inc/start-pages.php:28 pages/themes.php:36
+msgid "Темы сайта"
+msgstr "Темы сайта"
+
+#: inc/widgets/wid-top-authors.php:19 inc/widgets/wid-top-authors.php:70
+#: inc/widgets/wid-top-authors.php:93
+msgid "Топ авторов"
+msgstr "Топ авторов"
+
+#: inc/filter/in_themes--authors.php:7
+msgid "Топ за год"
+msgstr "Топ за год"
+
+#: inc/filter/in_themes--authors.php:6
+msgid "Топ за месяц"
+msgstr "Топ за месяц"
+
+#: inc/config/bookmarks.php:104
+msgid "У вас нет закладок."
+msgstr "У вас нет закладок."
+
+#: inc/config/user-avatar.php:301
+msgid ""
+"У вас нет разрешений на управление мультимедиа. Чтобы изменить аватар, "
+"обратитесь к администрации сайта."
+msgstr ""
+"У вас нет разрешений на управление мультимедиа. Чтобы изменить аватар, "
+"обратитесь к администрации сайта."
+
+#: inc/config/karma.php:168
+msgid "Убрали оценку с комментария:"
+msgstr "Убрали оценку с комментария:"
+
+#: inc/config/karma.php:166
+msgid "Убрали оценку с поста:"
+msgstr "Убрали оценку с поста:"
+
+#: inc/config/notifications.php:145 inc/config/notifications.php:347
+msgid "Уведомления"
+msgstr "Уведомления"
+
+#: inc/config/notifications.php:256 inc/config/notifications.php:462
+msgid "Уведомления отмечены как прочитанные"
+msgstr "Уведомления отмечены как прочитанные"
+
+#: inc/theme-functions.php:1551 pages/edit-profile.php:138
+msgid "Увлечение"
+msgstr "Увлечение"
+
+#: inc/config/karma.php:164
+msgid "Удаление комментария:"
+msgstr "Удаление комментария:"
+
+#: inc/config/karma.php:162
+msgid "Удаление поста:"
+msgstr "Удаление поста:"
+
+#: inc/config/user-avatar.php:308
+msgid "Удалить"
+msgstr "Удалить"
+
+#: inc/config/notifications.php:158 inc/config/notifications.php:358
+msgid "Удалить все"
+msgstr "Удалить все"
+
+#: inc/config/bookmarks.php:84
+msgid "Удалить из закладок"
+msgstr "Удалить из закладок"
+
+#: inc/theme-functions.php:1786
+msgid "Удалить на сайте"
+msgstr "Удалить на сайте"
+
+#: inc/auth.php:576
+msgid "Укажите адрес электронной почты."
+msgstr "Укажите адрес электронной почты."
+
+#: inc/auth.php:610
+msgid "Упс!"
+msgstr "Упс!"
+
+#: template-parts/user/head_user_notlogged.php:116
+msgid "Упс.."
+msgstr "Упс.."
+
+#: template-parts/user/head_user_notlogged.php:135
+msgid "Упс.. Бот.."
+msgstr "Упс.. Бот.."
+
+#: pages/edit-profile.php:100
+msgid "Фамилия"
+msgstr "Фамилия"
+
+#: inc/auth.php:610
+msgid "Что-то пошло не так.."
+msgstr "Что-то пошло не так.."
+
+#: inc/auth.php:395
+msgid "Чтобы завершить регистрацию на"
+msgstr "Чтобы завершить регистрацию на"
+
+#: inc/config/bookmarks.php:91
+msgid "Чтобы просмотреть закладки, требуется авторизация."
+msgstr "Чтобы просмотреть закладки, требуется авторизация."
+
+#: inc/config/user-subscription.php:236
+msgid "Чтобы просмотреть подписки пользователя, авторизуйтесь на сайте."
+msgstr "Чтобы просмотреть подписки пользователя, авторизуйтесь на сайте."
+
+#: inc/config/user-subscription.php:296
+msgid "Чтобы просмотреть подписчиков пользователя, авторизуйтесь на сайте."
+msgstr "Чтобы просмотреть подписчиков пользователя, авторизуйтесь на сайте."
+
+#: inc/auth.php:303
+msgid "Эта почта уже используется"
+msgstr "Эта почта уже используется"
+
+#: inc/oauth2.php:367
+msgid "Яндекс"
+msgstr "Яндекс"
+
+#: inc/oauth2.php:137
+msgid "Яндекс ID"
+msgstr "Яндекс ID"
+
+#: inc/auth.php:396
+msgid ""
+"а также получить доступ ко всем нашим функциям, пожалуйста, подтвердите свой "
+"адрес электронной почты ниже:"
+msgstr ""
+"а также получить доступ ко всем нашим функциям, пожалуйста, подтвердите свой "
+"адрес электронной почты ниже:"
+
+#: inc/post-meta.php:469
+msgid "августа"
+msgstr "августа"
+
+#: inc/post-meta.php:465
+msgid "апреля"
+msgstr "апреля"
+
+#: inc/config/notifications.php:829
+msgid "больше не нравится ваш комментарий"
+msgstr "больше не нравится ваш комментарий"
+
+#: inc/config/notifications.php:798
+msgid "больше не нравится ваш пост"
+msgstr "больше не нравится ваш пост"
+
+#: author.php:304 pages/author.php:294 inc/widgets/wid-latest-comments.php:62
+#: inc/widgets/wid-latest-comments.php:268
+msgid "в посте"
+msgstr "в посте"
+
+#: inc/post-meta.php:473
+msgid "декабря"
+msgstr "декабря"
+
+#: inc/config/notifications.php:412
+msgid "из"
+msgstr "из"
+
+#: inc/oauth2.php:153
+msgid "или с помощью"
+msgstr "или с помощью"
+
+#: inc/post-meta.php:468
+msgid "июля"
+msgstr "июля"
+
+#: inc/post-meta.php:467
+msgid "июня"
+msgstr "июня"
+
+#: inc/oauth2.php:50
+msgid "консоли разработчика"
+msgstr "консоли разработчика"
+
+#: inc/post-meta.php:464
+msgid "марта"
+msgstr "марта"
+
+#: inc/post-meta.php:466
+msgid "мая"
+msgstr "мая"
+
+#: inc/post-meta.php:499
+msgid "мин"
+msgstr "мин"
+
+#: inc/oauth2.php:68
+msgid "моих приложениях"
+msgstr "моих приложениях"
+
+#: inc/config/notifications.php:383 template-parts/post-card/header-meta.php:11
+#: template-parts/post-card/header-meta.php:14
+msgid "назад"
+msgstr "назад"
+
+#: inc/auth.php:345
+msgid "новый пользователь"
+msgstr "новый пользователь"
+
+#: inc/post-meta.php:472
+msgid "ноября"
+msgstr "ноября"
+
+#: inc/post-meta.php:471
+msgid "октября"
+msgstr "октября"
+
+#: inc/theme-functions.php:1713
+msgid "ответ для "
+msgstr "ответ для "
+
+#: inc/config/notifications.php:709
+msgid "ответил(а) на ваш комментарий"
+msgstr "ответил(а) на ваш комментарий"
+
+#: inc/config/notifications.php:664 inc/config/notifications.php:684
+msgid "ответил(а) на ваш пост"
+msgstr "ответил(а) на ваш пост"
+
+#: inc/config/notifications.php:776
+msgid "отписался(ась) от вашего профиля."
+msgstr "отписался(ась) от вашего профиля."
+
+#: inc/config/notifications.php:760
+msgid "подписался(ась) на ваш профиль."
+msgstr "подписался(ась) на ваш профиль."
+
+#: inc/auth.php:220
+msgid "политикой и условиями использования"
+msgstr "политикой и условиями использования"
+
+#: inc/config/notifications.php:814
+msgid "понравился ваш комментарий"
+msgstr "понравился ваш комментарий"
+
+#: inc/config/notifications.php:794
+msgid "понравился ваш пост"
+msgstr "понравился ваш пост"
+
+#: inc/config/notifications.php:739
+msgid "посетил(а) ваш профиль."
+msgstr "посетил(а) ваш профиль."
+
+#: inc/auth.php:220
+msgid "сайта"
+msgstr "сайта"
+
+#: inc/post-meta.php:470
+msgid "сентября"
+msgstr "сентября"
+
+#: inc/post-meta.php:463
+msgid "февраля"
+msgstr "февраля"
+
+#: inc/post-meta.php:462
+msgid "января"
+msgstr "января"

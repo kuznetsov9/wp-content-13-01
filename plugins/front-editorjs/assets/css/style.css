@@ -1,0 +1,666 @@
+/**
+ * Global Styles
+ * 
+ *   
+ */
+
+/* Целимся прямо в инлайновые стили телеграма */
+.post-card .pc-excerpt .editor-telegram iframe[src*="t.me"] {
+    /* Принудительная высота, если скрипт не сработал */
+    height: 600px !important; 
+    min-height: 400px !important;
+    
+    /* Убираем все ограничения */
+    max-height: none !important;
+    display: block !important;
+    visibility: visible !important;
+}
+
+.editor-post {
+    width: 100%;
+    margin: 10px 0;
+}
+
+input.editor-post,
+select.editor-post {
+    margin: 4px 0 0px 0;
+    height: 60px;
+	    padding: 0 4px;
+}
+
+.author-details {
+    display: flex;
+    color: #000;
+    margin: 20px 0;
+}
+
+.author-details a {
+    color: #000;
+    text-decoration: none;
+}
+
+.author-details>.post-author-avatar {
+    margin-right: 20px;
+}
+
+.author-details>.post-author-name {
+    width: 20%;
+    text-align: left;
+}
+
+#cont {
+    display: none;
+}
+
+.editor-post-input {
+    border: none;
+}
+
+input.editor-post-input-title {
+    font-size: 24px;
+    font-weight: 500;
+}
+
+/* fix icon paragraph */
+button[data-item-name="convert-to"] .ce-popover-item__icon--tool svg,
+.ce-popover-item[data-item-name="paragraph"] svg{
+	width: 12px !important;
+	height: 12px !important;
+    color: transparent;	
+}
+button[data-item-name="convert-to"] .ce-popover-item__icon--chevron-right svg {width: 14px; height: 14px;}
+
+
+.editor-footer-block {
+	border-top: 1px solid var(--es-color-border);
+	margin: 0 -20px -20px;
+	padding: 10px;
+	display: flex;
+	align-items: center;
+	justify-content: end;
+}
+.fred-tab-panel.addition {margin-bottom: 50px;}
+/* ============= */
+
+/* --------> Tabs (Add Post) */
+
+.fred-tab-buttons-block {
+	display: flex;
+    justify-content: center; 
+    align-items: center; 
+    margin: 0;
+}
+.fred-tab-buttons {
+    display: flex;
+    background: var(--es-color-highlight-background);
+    cursor: pointer; 
+    border-radius: 12px;
+    padding: 2px;
+	
+}
+.fred-tab-button {
+    flex: 1;
+    height: 32px;
+    padding: 0 16px;
+    border-radius: 10px;
+    background: transparent;
+    color: var(--es-color-secondary);
+    font-size: 14px;
+    font-weight: 500;
+    transition: background-color 0.2s, color 0.2s;
+    cursor: pointer;
+	justify-content: center; 
+    align-items: center; 
+	display:flex;
+}
+.fred-tab-button:hover {
+	color: var(--es-color-primary);
+}
+.fred-tab-button.active {
+    background: var(--es-layout-background);
+    color: var(--es-color-primary);
+	box-shadow: 0 0 #0000, 0 0 #0000, 0 0 #0000, 0 0 #0000, 
+	0 1px 3px 0 #0000001a, 0 1px 2px -1px #0000001a;
+}
+.fred-tab-panels {
+    width: 100%;
+    margin: auto;
+}
+.fred-tab-panel {
+    display: none;
+}
+.fred-tab-panel.active {
+    display: block;
+}
+
+
+
+/* --------> Upload Thumb (Add Post) */
+.upload-image-post {
+	border: 1px solid var(--es-color-border);
+	padding: 0px;
+	border-radius: 16px;
+	background-image: repeating-linear-gradient(315deg, currentColor 0 1px, #0000 0 50%);
+	background-size: 10px 10px;
+	background-attachment: fixed;
+	color: var(--es-color-contrast-100);
+	display: flex;
+	justify-content:center;
+}
+    /* Родитель у тебя имеет display: flex, поэтому правим поведение превью внутри него */
+    .js--image-preview {
+        /* flex: 1 заставляет блок занять доступное место, но не больше */
+        flex: 0 1 100% !important; 
+        width: 100% !important;
+        
+        /* Убираем 600px, пусть расширяется до границ .box (с учетом твоих margin 60px) */
+        max-width: 100% !important; 
+        
+        height: auto !important; 
+        min-height: 200px !important;
+        max-height: none !important;
+        
+        display: block !important;
+        position: relative !important;
+        cursor: pointer !important;
+        border-radius: 10px !important;
+        background-color: rgba(255, 255, 255, 0.05) !important; /* Легкий фон под твой градиент */
+        overflow: hidden !important; 
+        box-sizing: border-box !important;
+        line-height: 0 !important;
+    }
+
+    .js--image-preview img {
+        display: block !important;
+        width: 100% !important; 
+        max-width: 100% !important;
+        height: auto !important; 
+        object-fit: contain !important; 
+        margin: 0 auto !important;
+    }
+
+    .js--image-preview .remove-thumbnail {
+    position: absolute !important;
+    top: 15px !important;
+    right: 15px !important;
+    background: var(--es-color-highlight-background);
+    color: var(--es-color-primary);
+    width: 24px;
+    height: 24px;
+    border-radius: 50% !important;
+    display: flex !important;
+    align-items: center !important;
+    justify-content: center !important;
+    z-index: 20 !important;
+    font-size: 20px !important;
+    font-weight: bold !important;
+    }
+
+    .fred-add-image {
+        padding: 60px 20px !important;
+        display: flex !important;
+        flex-direction: column !important;
+        align-items: center !important;
+        justify-content: center !important;
+        width: 100% !important;
+    }
+
+@media (max-width: 1024px) {
+.upload-image-post {
+	margin: 20px 0px;
+}	
+.js--image-preview {
+   width: 100%;
+}	
+}
+.js--image-preview {
+    width: 50%;
+    height: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+	cursor: pointer;
+	overflow:hidden;
+}
+
+.upload-image-post .upload-options {height: 0 !important}
+
+.remove-thumbnail {
+    position: absolute;
+    top: 5px;
+    right: 5px;
+    cursor: pointer;
+    background-color: var(--es-color-contrast-200);
+    border-radius: 50%;
+	z-index: 2;
+	width: 26px;
+	height: 26px;
+	display: flex;
+	align-items:center;
+	justify-content:center;
+	font-size: 14px;
+	color: var(--es-color-primary);
+}
+.remove-thumbnail:hover{
+	background: var(--es-color-contrast-100);
+}
+.fred-add-image {  
+	position: absolute; /* Позиционирование иконки */
+    z-index: 0; /* Чтобы иконка была под изображением */
+    color: var(--es-color-secondary);
+	text-align: center;	
+}
+.fred-add-image .icon-add-image {
+	width: 70px;
+    height: 70px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+	border-radius: 50%;
+	border: 2px solid var(--es-color-border);
+	margin: auto;
+	background: var(--es-color-contrast-50);
+	color: var(--es-color-secondary);
+	margin-bottom: 20px;
+	box-shadow: 0 1px 3px 0 rgb(0 0 0 / .1), 0 1px 2px -1px rgb(0 0 0 / .1);
+	
+
+}
+.fred-add-image .icon-add-image:hover {
+	background: var(--es-layout-background); 
+	color: var(--es-color-primary);
+	border: 2px solid #00ad64;
+}
+.fred-add-image .icon-add-image svg {
+	width: 36px;
+    height: 36px;
+}
+.fred-add-image .text-add-image {
+    font-weight: 500;
+	font-size: 15px;
+}
+
+/* --------> Select Themes (Add Themes) */
+.esn-custom-select {
+    position: relative;
+    width: auto; 
+    font-size: 14px;
+    color: var(--es-color-primary);
+	max-width: 270px;
+	min-width: 100px;
+}
+ul.esn-custom-select-options{
+	padding: 0 !important;
+}
+ul.esn-custom-select-options li {
+	margin-bottom: 2px !important;
+}
+ul.esn-custom-select-options li:last-child {
+	margin-bottom: 0 !important;
+}
+.esn-custom-select-selected {
+    background-color: var(--es-color-contrast-50);
+    padding: 6px;
+    cursor: pointer;
+    display: flex;
+    justify-content: start;
+    align-items: center;
+}
+.esn-custom-select-selected:after {
+    content: "";
+    position: absolute;
+    right: 15px;
+    transform: translateY(-50%);
+    border: solid var(--es-color-secondary);
+    border-width: 0 2px 2px 0;
+    display: inline-block;
+    padding: 3px;
+    transform: rotate(45deg);
+    -webkit-transform: rotate(45deg);
+	margin-bottom: 3px;
+}
+.esn-custom-select-options {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    border-top: none;
+    position: absolute;
+    top: 100%;
+    left: 0;
+    right: 0;
+    z-index: 9;
+    display: none; 
+    transform: scaleY(1);
+    transform-origin: center top;  
+    background: var(--es-layout-background);
+    min-width: 100px;
+}
+.esn-custom-select-option {
+    padding: 6px;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    user-select: none;
+    border-radius: 6px;
+    color: var(--es-color-secondary);
+	line-height: 1;
+	height: 33px
+}
+.esn-custom-select-option:hover {
+    background-color: var(--es-color-highlight-background);
+    color: var(--es-color-primary);
+}
+.esn-custom-select-option.selected {
+    background-color: var(--es-color-highlight-background);
+    color: var(--es-color-primary);
+}
+.esn-custom-select-option .indent {
+    margin-left: 10px;
+}
+.esn-custom-select {
+    border-radius: var(--es-layout-elements-border-radius);
+}
+.esn-custom-select-selected {
+    border-radius: var(--es-layout-elements-border-radius);	
+	background: var(--es-color-highlight-background);
+    color: var(--es-color-primary);
+	height: 37px;
+}
+.esn-custom-select-options {
+    border-radius: var(--es-layout-elements-border-radius);
+	border: 1px solid var(--es-color-border);
+    box-shadow: 0 4px 20px rgba(0, 0, 0, .08), 0 0 1px rgba(0, 0, 0, .16);
+	margin-top: 2px;
+}
+.esn-custom-select-option .esn-category-logo, 
+.esn-custom-select-selected .esn-category-logo {
+	width: 28px; 
+	height: 28px; 
+	border-radius: 50%;
+	box-shadow: 0 1px 3px 0 rgb(0 0 0 / .2), 0 1px 2px -1px rgb(0 0 0 / .2);
+}
+.esn-custom-select-selected-text,
+.esn-custom-select-option .esn-category-name,
+.esn-custom-select-selected .esn-category-name {
+	padding-left: 6px;
+	overflow: hidden;
+    text-overflow: ellipsis;
+    display: -webkit-box;
+    -webkit-line-clamp: 1;
+    -webkit-box-orient: vertical;
+    max-width: 230px;
+}
+.esn-custom-select-option.selected .esn-category-name {
+	font-weight: 500;
+	overflow: hidden;
+    text-overflow: ellipsis;
+    display: -webkit-box;
+    -webkit-line-clamp: 1;
+    -webkit-box-orient: vertical;
+    max-width: 230px;
+}
+.esn-custom-select-scroll {	
+	max-height: 230px;
+	overflow-y: auto;
+	scrollbar-color: var(--es-color-highlight-background) transparent;
+    -webkit-overflow-scrolling: touch;
+    scrollbar-width: thin;
+	padding: 6px;	
+}
+
+/* --------> Checkbox */
+.esn-checkbox label span{ 
+    padding: 4px 0 4px 4px;
+    font-size: 16px;
+    line-height: 1.4em;
+    -moz-user-select: none;
+    user-select: none;
+	cursor: pointer;
+}
+
+.esn-checkbox input[type=checkbox] {
+      /* --active: #275EFE;
+      --active-inner: #fff;
+      --focus: 2px rgba(39, 94, 254, .3);
+      --border: #BBC1E1;
+      --border-hover: #275EFE;
+      --background: transparent;
+      --disabled: #F6F8FF;
+      --disabled-inner: #E1E6F9; */
+	  --active: #275EFE;
+      --active-inner: #fff;
+      --focus: 2px rgba(39, 94, 254, .3);
+      --border: var(--es-color-border);
+      --border-hover: #275EFE;
+      --background: transparent;
+      --disabled: #F6F8FF;
+      --disabled-inner: #E1E6F9;
+      -webkit-appearance: none;
+      -moz-appearance: none;
+      height: 21px;
+      outline: none;
+      display: inline-block;
+      vertical-align: top;
+      position: relative;
+      margin: 0;
+      cursor: pointer;
+      border: 1px solid var(--bc, var(--border));
+      background: var(--b, var(--background));
+      transition: background 0.3s, border-color 0.3s, box-shadow 0.2s;
+}
+.esn-checkbox input[type=checkbox]:after {
+      content: "";
+      display: block;
+      left: 0;
+      top: 0;
+      position: absolute;
+      transition: transform var(--d-t, 0.3s) var(--d-t-e, ease), opacity var(--d-o, 0.2s);
+}
+.esn-checkbox input[type=checkbox]:checked {
+      --b: var(--active);
+      --bc: var(--active);
+      --d-o: .3s;
+      --d-t: .6s;
+      --d-t-e: cubic-bezier(.2, .85, .32, 1.2);
+}
+.esn-checkbox input[type=checkbox]:disabled {
+      --b: var(--disabled);
+      cursor: not-allowed;
+      opacity: 0.9;
+}
+.esn-checkbox input[type=checkbox]:disabled:checked {
+      --b: var(--disabled-inner);
+      --bc: var(--border);
+}
+.esn-checkbox input[type=checkbox]:disabled + label {
+      cursor: not-allowed;
+}
+.esn-checkbox input[type=checkbox]:hover:not(:checked):not(:disabled) {
+      --bc: var(--border-hover);
+}
+.esn-checkbox input[type=checkbox]:focus {
+      box-shadow: 0 0 0 var(--focus);
+}
+.esn-checkbox input[type=checkbox]:not(.switch) {
+      width: 21px;
+}
+.esn-checkbox input[type=checkbox]:not(.switch):after {
+      opacity: var(--o, 0);
+}
+.esn-checkbox input[type=checkbox]:not(.switch):checked {
+      --o: 1;
+}
+.esn-checkbox input[type=checkbox] + label {
+      display: inline-block;
+      vertical-align: middle;
+      cursor: pointer;
+      margin-left: 4px;	 
+      margin-bottom: 20px;	  
+}
+.esn-checkbox input[type=checkbox]:not(.switch) {
+      border-radius: 7px;
+}
+.esn-checkbox input[type=checkbox]:not(.switch):after {
+      width: 5px;
+      height: 9px;
+      border: 2px solid var(--active-inner);
+      border-top: 0;
+      border-left: 0;
+      left: 7px;
+      top: 4px;
+      transform: rotate(var(--r, 20deg));
+}
+.esn-checkbox input[type=checkbox]:not(.switch):checked {
+      --r: 43deg;
+}
+.esn-checkbox * {
+    box-sizing: inherit;
+}
+.esn-checkbox *:before,
+.esn-checkbox *:after {
+    box-sizing: inherit;
+}
+
+
+.fred-notice-success {
+	margin-right: 20px;
+	font-size: 13px;
+	font-weight: 500;
+	color: var(--es-color-secondary);
+}
+
+/* --------> PAGE My Posts */
+
+
+/* Block One Post*/
+
+.fred-my-post {
+	margin-top: 20px;
+}
+
+.fred-image-post .img-fluid {
+	width: 90px;
+	height: 80px;
+	border-radius: 12px;
+    object-fit: cover;
+    border: 1px solid var(--es-layout-background);
+}
+.fred-image-post .img-fluid:hover {
+    filter: brightness(90%);
+}
+.fred-footer-button {
+	display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.fred-footer-button_icon {
+	position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 24px;
+    height: 24px;
+    background-color: transparent;
+    border-radius: 100%;
+    cursor: pointer;
+	padding: 2px;
+	opacity: 0;
+}
+.fred-my-post:hover .fred-footer-button_icon {
+	opacity: 1;
+}
+
+.fred-footer-button_icon svg {
+	fill: var(--es-color-contrast-600);
+    stroke: var(--es-color-contrast-600);
+    stroke-width: 1;
+}
+.fred-footer-button:hover .fred-footer-button_icon {
+	background: var(--es-color-contrast-200);
+	fill: var(--es-color-primary);
+}
+.fred-footer-button:hover svg {
+	fill: var(--es-color-primary);
+	stroke:  var(--es-color-primary);
+}
+.fred-post-title {
+	color: var(--es-color-primary);
+    overflow: hidden; 
+    text-overflow: ellipsis;
+    display: -webkit-box;
+    -webkit-line-clamp: 3;
+    -webkit-box-orient: vertical;
+	font-size: 18px;
+    line-height: 1.4;
+	font-weight: 500;
+	margin-top: 10px;
+}
+.fred-post-title:hover {
+	color: var(--es-color-secondary);
+}
+.fred-image-post a,
+.fred-delete-icon a{
+	background: transparent !important;
+	color: transparent !important;
+}
+.fred-delete-icon .fred-footer-button:hover .fred-footer-button_icon {
+	background: #ffccd3;
+	fill: #ff2056;
+	stroke: #ff2056;
+}
+.fred-delete-icon .fred-footer-button:hover svg {
+	fill: #ff2056;
+	stroke: #ff2056;
+}
+
+.fred-posts-area__pagination .navigation.pagination .nav-links > .current {
+    border: 1px solid var(--es-color-border);
+	outline: 0 !important;
+}
+
+
+/* Popup delete post*/
+.fred-delete-popup {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: rgba(0, 0, 0, 0.5);
+    backdrop-filter: blur(15px);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    z-index: 999;
+}
+
+.fred-popup-content {
+    background: var(--es-layout-background);
+    border-radius: 12px;           
+    min-width: 400px;          
+    max-width: 500px;
+	max-height: 100%;
+    position: relative;	
+}
+.fred-popup-content-title {
+	border-bottom: 1px solid var(--es-color-border);	
+	padding: 15px 20px;
+}
+.fred-popup-buttons {
+	margin: 15px;
+	display: flex;
+	justify-content: end;
+	align-items:center;
+	gap: 10px;
+}
+.fred-popup-content button {  
+    cursor: pointer;
+}
+.fred-mypostslist
+{display: flex;
+    flex-direction: row;
+    align-items: flex-end;
+    gap: 12px;}

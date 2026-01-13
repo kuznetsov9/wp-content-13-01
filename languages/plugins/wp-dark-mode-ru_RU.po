@@ -1,0 +1,530 @@
+# Translation of Plugins - Dark Mode Plugin for Better Accessibility, Dark Theme and Night Mode &#8211; WP Dark Mode - Stable (latest release) in Russian
+# This file is distributed under the same license as the Plugins - Dark Mode Plugin for Better Accessibility, Dark Theme and Night Mode &#8211; WP Dark Mode - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2025-05-04 11:57:09+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n % 10 == 1 && n % 100 != 11) ? 0 : ((n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 12 || n % 100 > 14)) ? 1 : 2);\n"
+"X-Generator: GlotPress/4.0.3\n"
+"Language: ru\n"
+"Project-Id-Version: Plugins - Dark Mode Plugin for Better Accessibility, Dark Theme and Night Mode &#8211; WP Dark Mode - Stable (latest release)\n"
+
+#: templates/admin/upgrade-popup.php:76
+msgid "SECONDS"
+msgstr "СЕКУНДЫ"
+
+#: templates/admin/upgrade-popup.php:72
+msgid "MINUTES"
+msgstr "МИНУТЫ"
+
+#: templates/admin/upgrade-popup.php:68
+msgid "HOURS"
+msgstr "ЧАСЫ"
+
+#: templates/admin/upgrade-popup.php:64
+msgid "DAYS"
+msgstr "ДНИ"
+
+#: includes/wppool/class-plugin.php:334 includes/wppool/class-plugin.php:343
+#: includes/wppool/class-plugin.php:352 includes/wppool/class-plugin.php:361
+msgid "00"
+msgstr "00"
+
+#: templates/admin/social-share/preview.php:23
+msgid "Preview"
+msgstr "Просмотреть"
+
+#: templates/admin/social-share/customization.php:102
+msgid "Sharing is Caring: "
+msgstr "Делиться - это заботиться: "
+
+#: templates/admin/social-share/customization.php:77
+msgid "More"
+msgstr "Читать далее"
+
+#: templates/admin/social-share/channels.php:31
+msgid "Search Channel"
+msgstr "Поиск канала"
+
+#: includes/modules/social-share/class-social-share.php:867
+msgid "Something went wrong"
+msgstr "Что-то пошло не так"
+
+#: includes/modules/social-share/class-social-share.php:826
+msgid "Invalid permission"
+msgstr "Разрешение недействительно"
+
+#: languages/wp-dark-mode.php:227
+msgid "New"
+msgstr "Новое"
+
+#: includes/modules/social-share/class-social-share.php:463
+msgid "Social Share"
+msgstr "Поделиться в соцсетях"
+
+#: includes/wppool/class-plugin.php:364
+msgid "Seconds"
+msgstr "Секунды"
+
+#: includes/wppool/class-plugin.php:355
+msgid "Minutes"
+msgstr "Минуты"
+
+#: includes/wppool/class-plugin.php:346
+msgid "Hours"
+msgstr "Часы"
+
+#: includes/wppool/class-plugin.php:337
+msgid "Days"
+msgstr "Дни"
+
+#: includes/wppool/class-plugin.php:329
+msgid "Deal Ends In"
+msgstr "Сделка заканчивается в"
+
+#: templates/frontend/social-share.php:209
+msgid "Share via:"
+msgstr "Поделиться через:"
+
+#: templates/admin/social-share/customization.php:296
+msgid "Set the number of channels that you want to show on your website. The rest will be shown after clicking on the 'More' button."
+msgstr "Установите количество каналов, которые вы хотите показать на своем сайте. Остальные будут показаны после щелчка на кнопку \" Больше\"."
+
+#: templates/admin/social-share/customization.php:295
+msgid "Channel Visibility Count"
+msgstr "Счётчик видимости канала"
+
+#: templates/admin/social-share/customization.php:282
+msgid "This is the maximum number of click count on a social channel you want to show your visitors"
+msgstr "Это максимальное количество кликов на социальном канале, которое вы хотите показать своим посетителям."
+
+#: templates/admin/social-share/customization.php:281
+msgid "Maximum Share Click"
+msgstr "Максимальное количество щёлкнувших \"Поделиться\""
+
+#: templates/admin/social-share/customization.php:186
+#: templates/admin/social-share/customization.php:206
+#: templates/admin/social-share/customization.php:237
+#: templates/admin/social-share/customization.php:254
+#: templates/admin/social-share/customization.php:268
+#: templates/admin/social-share/customization.php:284
+#: templates/admin/social-share/customization.php:298
+msgid "Ultimate"
+msgstr "Ultimate"
+
+#: templates/admin/social-share/customization.php:266
+msgid "This is the minimum number of shares a page needs to have before the share counter is shown."
+msgstr "Это минимальное количество репостов, которое должна иметь страница, прежде чем будет показан счетчик поделившихся."
+
+#: templates/admin/social-share/customization.php:265
+msgid "Minimum Share Count"
+msgstr "Минимальное количество акций"
+
+#: templates/admin/social-share/customization.php:252
+msgid "Enable total share counter. It will show how many times your content is shared via enabled channels."
+msgstr "Включите счетчик числа поделившихся. Он покажет, сколько раз вашим содержимым поделились через включенные каналы."
+
+#: templates/admin/social-share/customization.php:251
+msgid "Total Shares"
+msgstr "Всего поделились"
+
+#: templates/admin/social-share/customization.php:235
+msgid "Select default spacing between each channel."
+msgstr "Выберите расстояние по умолчанию между каждым каналом."
+
+#: templates/admin/social-share/customization.php:235
+msgid "Button Spacing"
+msgstr "Расстояние между кнопками"
+
+#: templates/admin/social-share/customization.php:204
+msgid "Choose where the inline button will appear on your website."
+msgstr "Выберите, где на вашем сайте будет отображаться встроенная кнопка."
+
+#: templates/admin/social-share/customization.php:204
+msgid "Display Buttons on"
+msgstr "Кнопки дисплея включены"
+
+#: languages/wp-dark-mode.php:228
+msgid "Pro"
+msgstr "Pro"
+
+#: templates/admin/social-share/customization.php:184
+msgid "Select where you want to hide your inline button."
+msgstr "Выберите, где вы хотите скрыть встроенную кнопку."
+
+#: templates/admin/social-share/customization.php:184
+msgid "Hide Buttons on"
+msgstr "Скрыть кнопки на"
+
+#: templates/admin/social-share/customization.php:171
+msgid "Button labels can display your channel’s name and share count."
+msgstr "Этикетки на кнопках могут отображать название вашего канала и количество репостов."
+
+#: templates/admin/social-share/customization.php:171
+msgid "Button Label"
+msgstr "Этикетка кнопки"
+
+#: templates/admin/social-share/customization.php:158
+msgid "Choose the default size for your inline button."
+msgstr "Выберите размер по умолчанию для встроенной кнопки."
+
+#: templates/admin/social-share/customization.php:158
+msgid "Button Size"
+msgstr "Размер кнопки"
+
+#: templates/admin/social-share/customization.php:145
+msgid "Choose the button shape that matches your site content."
+msgstr "Выберите форму кнопки, соответствующую содержимому вашего сайта."
+
+#: templates/admin/social-share/customization.php:145
+msgid "Button Shape"
+msgstr "Форма кнопки"
+
+#: templates/admin/social-share/customization.php:123
+msgid "Choose the alignment of the button."
+msgstr "Выберите выравнивание кнопки."
+
+#: templates/admin/social-share/customization.php:123
+msgid "Button Alignment"
+msgstr "Выравнивание кнопок"
+
+#: templates/admin/social-share/customization.php:110
+msgid "Choose the position where you want show your inline button."
+msgstr "Выберите позицию, в которой вы хотите отобразить встроенную кнопку."
+
+#: templates/admin/social-share/customization.php:110
+msgid "Button Position"
+msgstr "Позиция кнопки"
+
+#: templates/admin/social-share/customization.php:98
+msgid "Share label appears before the inline button. Provide engaging texts to make sure your visitors are sharing the content!"
+msgstr "Этикетка \"Поделиться\" появляется перед встроенной кнопкой. Создавайте привлекательные тексты, чтобы ваши посетители делились содержимым!"
+
+#: templates/admin/social-share/customization.php:97
+msgid "Share Label"
+msgstr "Этикетка Поделиться"
+
+#: templates/admin/social-share/customization.php:19
+msgid "Choose any inline button template that suits your style"
+msgstr "Выберите любой встроенный шаблон кнопки, подходящий к вашему стилю"
+
+#: templates/admin/social-share/customization.php:19
+msgid "Inline Button Template"
+msgstr "Шаблон встроенной кнопки"
+
+#: templates/admin/social-share/channels.php:108
+msgid "Reorder your social channels. You can edit the channel label and device visibility for each. Drag channels to change their order."
+msgstr "Упорядочите свои социальные сети. Для каждого канала можно изменить метку канала и видимость на устройстве. Перетащите каналы, чтобы изменить их порядок."
+
+#: templates/admin/social-share/channels.php:107
+msgid "Manage channels"
+msgstr "Управление каналами"
+
+#: templates/admin/social-share/channels.php:99
+msgid "Unlock all channels"
+msgstr "Разблокировать все каналы"
+
+#: templates/admin/social-share/channels.php:91
+msgid "See more channels"
+msgstr "Смотрите другие каналы"
+
+#: templates/admin/social-share/channels.php:78
+msgid "Not found <span class=\"italic text-blue-500\" x-text=\"state.search_channels\"></span>"
+msgstr "Не найдено <span class=\"italic text-blue-500\" x-text=\"state.search_channels\"></span>"
+
+#: templates/admin/social-share/channels.php:29
+msgid "Enable your preferred social channels"
+msgstr "Включите предпочитаемые социальные каналы"
+
+#: templates/admin/social-share/channels.php:19
+msgid "Enable Social Share (Inline Button)"
+msgstr "Включить обмен в соцсетях (встроенная кнопка)"
+
+#: templates/admin/social-share/base.php:17
+msgid "Social Share (Inline Button)"
+msgstr "Поделиться в социальных сетях (встроенная кнопка)"
+
+#: includes/modules/social-share/class-social-share.php:833
+msgid "Invalid channel"
+msgstr "Недействительный канал"
+
+#: includes/modules/social-share/class-social-share.php:462
+msgid "Social Share - WP Dark Mode"
+msgstr "Поделиться в соцсетях - WP Dark Mode"
+
+#: languages/wp-dark-mode.php:45
+msgid "Block Editor Dark Mode"
+msgstr "Тёмный режим редактора блоков"
+
+#: includes/modules/elementor/widgets/class-elementor-widget.php:133
+#: languages/wp-dark-mode.php:244 includes/modules/gutenberg/main.js:85
+msgid "Switch Size"
+msgstr "Размер переключателя"
+
+#: includes/admin/class-recommended-plugins.php:202
+#: templates/admin/recommended-plugins.php:135
+msgid "Hide From Menu"
+msgstr "Скрыть из меню"
+
+#: includes/admin/class-recommended-plugins.php:201
+#: templates/admin/recommended-plugins.php:134
+msgid "Try out our recommended plugins"
+msgstr "Попробуйте другие наши полезные плагины"
+
+#: languages/wp-dark-mode.php:160
+msgid "Dark Mode Image"
+msgstr "Изображение в тёмном режиме"
+
+#: includes/admin/class-admin-menus.php:82
+#: includes/admin/class-admin-menus.php:83
+msgid "Get Started"
+msgstr "Начать"
+
+#: includes/admin/class-admin-menus.php:107
+msgid "Recommended Plugins"
+msgstr "Рекомендуемые плагины"
+
+#: includes/wppool/class-plugin.php:371
+msgid "Upgrade to Pro"
+msgstr "Обновление на Pro"
+
+#: templates/admin/upgrade-popup.php:54
+msgid "Unlock all the features"
+msgstr "Разблокируйте все функции"
+
+#: languages/wp-dark-mode.php:126
+msgid "Exclude WC Categories"
+msgstr "Исключить категории WC"
+
+#: languages/wp-dark-mode.php:59
+msgid "Reporting Email Subject"
+msgstr "Тема письма с отчетом"
+
+#: languages/wp-dark-mode.php:57
+msgid "Reporting Email"
+msgstr "Отчет по электронной почте"
+
+#: languages/wp-dark-mode.php:55
+msgid "Reporting Frequency"
+msgstr "Частота отчетности"
+
+#: languages/wp-dark-mode.php:53
+msgid "Email Reporting"
+msgstr "Отчёты по электронной почте"
+
+#: languages/wp-dark-mode.php:61
+msgid "WP Dark Mode Usage"
+msgstr "Устройство WP Dark Mode"
+
+#: languages/wp-dark-mode.php:41
+msgid "Custom"
+msgstr "Произвольно"
+
+#: languages/wp-dark-mode.php:40
+msgid "Large"
+msgstr "Большой"
+
+#: includes/admin/class-recommended-plugins.php:509
+#: templates/admin/recommended-plugins.php:441
+msgid "If you hide the recommended plugins page from your menu, it won't appear there again. Are you sure you'd like to do it?"
+msgstr "Если вы скрываете рекомендованную страницу Plugins из вашего меню, она не появится там снова.Вы уверены, что вам понравится это делать?"
+
+#: includes/admin/class-recommended-plugins.php:508
+#: languages/wp-dark-mode.php:179 templates/admin/recommended-plugins.php:440
+msgid "Are you sure?"
+msgstr "Вы уверены?"
+
+#. translators: %s: Number of installations.
+#: includes/admin/class-recommended-plugins.php:487
+#: templates/admin/recommended-plugins.php:419
+msgid "%s Active Installations"
+msgstr "%s активных установок"
+
+#: includes/admin/class-recommended-plugins.php:482
+#: templates/admin/recommended-plugins.php:414
+msgctxt "Active plugin installations"
+msgid "Less Than 10"
+msgstr "Меньше 10"
+
+#. translators: %s: Number of millions.
+#: includes/admin/class-recommended-plugins.php:478
+#: templates/admin/recommended-plugins.php:410
+msgctxt "Active plugin installations"
+msgid "%s+ Million"
+msgid_plural "%s+ Million"
+msgstr[0] "%s+ млн"
+msgstr[1] "%s+ млн"
+msgstr[2] "%s+ Million"
+
+#. translators: %s: Human-readable time difference.
+#: includes/admin/class-recommended-plugins.php:469
+#: templates/admin/recommended-plugins.php:401
+msgid "%s ago"
+msgstr "%s назад"
+
+#: includes/admin/class-recommended-plugins.php:466
+#: templates/admin/recommended-plugins.php:398
+msgid "Last Updated:"
+msgstr "Последнее обновление:"
+
+#: includes/admin/class-recommended-plugins.php:418
+#: templates/admin/recommended-plugins.php:350
+msgid "This plugin doesn&#8217;t work with your version of PHP."
+msgstr "Этот плагин не работает с вашей версией PHP."
+
+#: includes/admin/class-recommended-plugins.php:409
+#: templates/admin/recommended-plugins.php:341
+msgid "This plugin doesn&#8217;t work with your version of WordPress."
+msgstr "Этот плагин не работает с вашей версией WordPress."
+
+#: includes/admin/class-recommended-plugins.php:385
+#: templates/admin/recommended-plugins.php:317
+msgid "This plugin doesn&#8217;t work with your versions of WordPress and PHP."
+msgstr "Этот плагин не работает с вашими версиями WordPress и PHP."
+
+#: includes/admin/class-recommended-plugins.php:355
+#: templates/admin/recommended-plugins.php:287
+msgid "More Details"
+msgstr "Больше деталей"
+
+#. translators: %s: Plugin name and version.
+#: includes/admin/class-recommended-plugins.php:353
+#: templates/admin/recommended-plugins.php:285
+msgid "More information about %s"
+msgstr "Подробнее о %s"
+
+#: includes/admin/class-recommended-plugins.php:340
+#: templates/admin/recommended-plugins.php:272
+msgctxt "plugin"
+msgid "Installed"
+msgstr "Инсталляция"
+
+#. translators: %s: Plugin name.
+#: includes/admin/class-recommended-plugins.php:322
+#: templates/admin/recommended-plugins.php:254
+msgctxt "plugin"
+msgid "Activate %s"
+msgstr "Активировать %s"
+
+#: includes/admin/class-recommended-plugins.php:320
+#: templates/admin/recommended-plugins.php:252
+msgid "Activate"
+msgstr "Активировать"
+
+#: includes/admin/class-recommended-plugins.php:317
+#: templates/admin/recommended-plugins.php:249
+msgctxt "plugin"
+msgid "Active"
+msgstr "Активный"
+
+#: includes/admin/class-recommended-plugins.php:306
+#: templates/admin/recommended-plugins.php:238
+msgctxt "plugin"
+msgid "Cannot Update"
+msgstr "не может обновляться"
+
+#: includes/admin/class-recommended-plugins.php:301
+#: templates/admin/recommended-plugins.php:233
+msgid "Update Now"
+msgstr "Обновить сейчас"
+
+#. translators: %s: Plugin name and version.
+#: includes/admin/class-recommended-plugins.php:299
+#: templates/admin/recommended-plugins.php:231
+msgctxt "plugin"
+msgid "Update %s now"
+msgstr "Обновить %s сейчас"
+
+#: includes/admin/class-recommended-plugins.php:284
+#: templates/admin/recommended-plugins.php:216
+msgctxt "plugin"
+msgid "Cannot Install"
+msgstr "не может быть установлена"
+
+#: includes/admin/class-recommended-plugins.php:279
+#: templates/admin/recommended-plugins.php:211
+msgid "Install Now"
+msgstr "Инсталляция сейчас"
+
+#. translators: %s: Plugin name and version.
+#: includes/admin/class-recommended-plugins.php:277
+#: templates/admin/recommended-plugins.php:209
+msgctxt "plugin"
+msgid "Install %s now"
+msgstr "Инсталляция %s сейчас"
+
+#. translators: %s: Plugin author.
+#: includes/admin/class-recommended-plugins.php:252
+#: templates/admin/recommended-plugins.php:184
+msgid "By %s"
+msgstr "Автор: %s"
+
+#: languages/wp-dark-mode.php:29
+msgid "Switch Widget"
+msgstr "Виджет переключателя"
+
+#: languages/wp-dark-mode.php:174
+msgid "Display Switch in Menu"
+msgstr "Переключение в меню"
+
+#: includes/admin/class-admin-install.php:232
+#: includes/admin/class-admin-menus.php:59
+#: includes/admin/class-admin-menus.php:60
+#: includes/admin/class-admin-menus.php:71
+#: includes/admin/class-admin-menus.php:72
+msgid "Settings"
+msgstr "Настройки"
+
+#: includes/admin/class-admin-menus.php:45
+msgid "WP Dark Mode Settings"
+msgstr "WP Dark Mode настройки"
+
+#: includes/modules/elementor/widgets/class-elementor-widget.php:162
+msgid "Right"
+msgstr "Справа"
+
+#: includes/modules/elementor/widgets/class-elementor-widget.php:158
+msgid "Center"
+msgstr "По центру"
+
+#: includes/modules/elementor/widgets/class-elementor-widget.php:154
+msgid "Left"
+msgstr "Слева"
+
+#: includes/modules/elementor/widgets/class-elementor-widget.php:113
+#: languages/wp-dark-mode.php:243 includes/modules/gutenberg/main.js:73
+msgid "Switch Style"
+msgstr "Стиль Switch"
+
+#: includes/modules/elementor/widgets/class-elementor-widget.php:150
+msgid "Alignment"
+msgstr "Выравнивание"
+
+#: includes/modules/elementor/widgets/class-elementor-widget.php:50
+#: includes/modules/elementor/widgets/class-elementor-widget.php:104
+#: languages/wp-dark-mode.php:245 includes/modules/gutenberg/main.js:176
+msgid "Dark Mode Switch"
+msgstr "Темный модульный переключатель"
+
+#. Author of the plugin
+#: plugin.php
+msgid "WPPOOL"
+msgstr "WPPOOL"
+
+#. Description of the plugin
+#: plugin.php
+msgid "WP Dark Mode automatically enables a stunning dark mode of your website based on user's operating system. Supports macOS, Windows, Android & iOS."
+msgstr "WP Dark Mode автоматически включает потрясающий тёмный режим вашего сайта в зависимости от операционной системы пользователя. Поддерживаются macOS, Windows, Android и iOS."
+
+#. Plugin URI of the plugin
+#: plugin.php
+msgid "https://wppool.dev/wp-dark-mode"
+msgstr "https://wppool.dev/wp-dark-mode"
+
+#. Plugin Name of the plugin
+#: plugin.php includes/admin/class-admin-menus.php:46
+#: includes/admin/class-admin-notices.php:86
+msgid "WP Dark Mode"
+msgstr "WP темный режим"

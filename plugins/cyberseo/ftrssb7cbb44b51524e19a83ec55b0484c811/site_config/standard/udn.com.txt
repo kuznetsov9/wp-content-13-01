@@ -1,0 +1,8 @@
+title: //h1[@class='article-content__title']
+author: //span[normalize-space(@class)='article-content__author']
+date: //time[@class='article-content__time']
+body: //section[contains(@class, 'article-content__editor')]/p
+
+strip: //figure[@class='article-content__cover']
+
+test_url: https://udn.com/news/story/123475/7600512

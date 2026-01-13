@@ -1,0 +1,365 @@
+/* Theme Dashboard */
+.es-theme-dashboard .button {
+	transition: 0.25s;
+	box-shadow: none !important;
+	outline: none !important;
+}
+.es-theme-dashboard .es-button {
+	padding: 6px 22px;
+}
+.es-theme-dashboard .es-button:not(:hover) {
+	background: transparent;
+}
+.es-theme-dashboard .es-button-primary {
+	padding: 6px 22px;
+}
+.es-theme-dashboard .es-separator {
+	background: #F0F0F0;
+	height: 1px;
+	margin-bottom: 2rem;
+}
+.es-theme-dashboard .es-title {
+	font-weight: 600;
+	font-size: 0.8125rem;
+	color: #1E1E1E;
+}
+.es-theme-dashboard .es-heading {
+	font-weight: 600;
+	font-size: 1rem;
+	color: #1E1E1E;
+}
+.es-theme-dashboard .es-description {
+	font-size: 0.8125rem;
+	color: #697B96;
+}
+.es-theme-dashboard .es-description:not(:first-child) {
+	margin-top: 1rem;
+}
+.es-theme-dashboard .es-badge {
+	display: inline-flex;
+	align-items: center;
+	justify-content: center;
+	padding: 0px 6px;
+	border-radius: 9px;
+	text-transform: uppercase;
+}
+.es-theme-dashboard .es-badge-success {
+	background: #DEF3ED;
+	color: #3FB28F;
+}
+.es-theme-dashboard .es-badge-info {
+	background: #007CBA;
+	color: #FFFFFF;
+}
+.es-theme-dashboard .es-badge-warning {
+	background: #F8E4E4;
+	color: #F58787;
+}
+.es-theme-dashboard .es-header {
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+	background: #FFFFFF;
+	margin: 0 0 0 -20px;
+	margin-bottom: 20px;
+	padding: 0 24px;
+}
+.es-theme-dashboard .es-header .es-header-left {
+	display: flex;
+	align-items: center;
+	height: 100%;
+}
+.es-theme-dashboard .es-header .es-header-right {
+	display: flex;
+	align-items: center;
+	height: 100%;
+}
+.es-theme-dashboard .es-header .es-header-col {
+	display: flex;
+	align-items: center;
+	border-right: 1px solid #f0f0f0;
+	padding: 0 24px;
+	height: 100%;
+	min-height: 60px;
+}
+.es-theme-dashboard .es-header .es-header-col:first-child {
+	padding-left: 0;
+}
+.es-theme-dashboard .es-header .es-header-col-logo {
+	border-right: none;
+}
+.es-theme-dashboard .es-header .es-logo a {
+	display: inline-block;
+	font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+	font-size: 1.25rem;
+	color: #000000;
+	text-decoration: none;
+}
+.es-theme-dashboard .es-header .es-logo a:focus {
+	box-shadow: none;
+}
+.es-theme-dashboard .es-header .es-link-documentation {
+	display: flex;
+	align-items: center;
+	text-decoration: none;
+}
+.es-theme-dashboard .es-header .es-link-documentation:hover span {
+	text-decoration: underline;
+}
+.es-theme-dashboard .es-header .es-link-documentation i {
+	display: flex;
+	align-items: center;
+	font-size: 1rem;
+	margin-left: 0.5rem;
+}
+.es-theme-dashboard .es-hero {
+	background: #FFFFFF;
+	display: flex;
+	border-radius: 2px;
+	margin-top: 20px;
+}
+.es-theme-dashboard .es-hero .es-hero-hello {
+	margin-top: 1rem;
+	font-weight: 600;
+	font-size: 1rem;
+	color: #1E1E1E;
+}
+.es-theme-dashboard .es-hero .es-hero-title {
+	margin-top: 1rem;
+	font-weight: 600;
+	font-size: 2rem;
+	line-height: 1.2;
+	color: #1E1E1E;
+}
+.es-theme-dashboard .es-hero .es-badge {
+	transform: translateY(-10px);
+	font-weight: normal;
+	font-size: 0.8125rem;
+}
+.es-theme-dashboard .es-hero .es-hero-desc {
+	margin-top: 1rem;
+	color: #1E1E1E;
+}
+.es-theme-dashboard .es-hero .es-hero-go {
+	margin-top: 1.5rem;
+	padding: 6px 22px;
+}
+@keyframes spin {
+	100% {
+		transform: rotate(360deg);
+	}
+}
+.es-theme-dashboard .es-hero .es-hero-notion {
+	font-size: 0.75rem;
+	margin-top: 0.5rem;
+	color: #697B96;
+}
+.es-theme-dashboard .es-hero .es-hero-warning {
+	margin-top: 0.5rem;
+	color: #dc3232;
+}
+.es-theme-dashboard .es-hero .es-hero-content {
+	padding: 24px;
+}
+.es-theme-dashboard .es-hero .es-hero-image {
+	display: none;
+}
+.es-theme-dashboard .es-hero .es-hero-image span {
+	position: relative;
+	display: inline-block;
+}
+.es-theme-dashboard .es-hero .es-hero-image img {
+	display: block;
+	zoom: 0.5;
+}
+@media (min-width: 1360px) {
+	.es-theme-dashboard .es-hero .es-hero-image {
+		display: flex;
+		flex-direction: column;
+		justify-content: flex-end;
+	}
+}
+.es-theme-dashboard .es-main {
+	display: flex;
+	flex-wrap: wrap;
+	margin-top: 20px;
+}
+.es-theme-dashboard .es-main-content {
+	display: flex;
+	flex-direction: column;
+	flex: 1 0 100%;
+	max-width: 100%;
+	width: 100%;
+}
+.es-theme-dashboard .es-main-content .es-hero {
+	margin-top: 0;
+	margin-bottom: 20px;
+	max-width: 100%;
+	width: 100%;
+}
+.es-theme-dashboard .es-main-content .form-table {
+	margin-top: 0;
+}
+.es-theme-dashboard .es-main-content .form-table th {
+	padding: 12px 10px 12px 0;
+}
+.es-theme-dashboard .es-main-content .form-table td {
+	padding: 12px 10px;
+}
+@media (min-width: 960px) {
+	.es-theme-dashboard .es-main-content {
+		flex: 1 0 calc(100% - 296px);
+		max-width: calc(100% - 296px);
+		width: 100%;
+		margin-right: 20px;
+	}
+}
+.es-theme-dashboard .es-main-sidebar {
+	flex: 1 0 100%;
+	max-width: 100%;
+	width: 100%;
+	margin-top: 20px;
+}
+@media (min-width: 960px) {
+	.es-theme-dashboard .es-main-sidebar {
+		flex: 1 0 276px;
+		max-width: 276px;
+		width: 100%;
+		margin-top: 0;
+	}
+}
+.es-theme-dashboard .es-panel {
+	display: flex;
+	flex-direction: column;
+	background: #FFFFFF;
+	border-radius: 0px 0px 2px 2px;
+	border-radius: 2px;
+}
+.es-theme-dashboard .es-panel + .es-panel {
+	margin-top: 20px;
+}
+.es-theme-dashboard .es-panel .es-panel-head {
+	padding: 16px 24px;
+	border-bottom: 1px solid #f0f0f0;
+}
+.es-theme-dashboard .es-panel .es-panel-title {
+	font-size: 0.8125rem;
+	margin: 0;
+}
+.es-theme-dashboard .es-panel .es-panel-content {
+	height: 100%;
+	padding: 24px;
+}
+.es-theme-dashboard .es-panel-tabs {
+	display: flex;
+	flex-direction: column;
+	flex-wrap: wrap;
+}
+@media (min-width: 960px) {
+	.es-theme-dashboard .es-panel-tabs {
+		flex-direction: row;
+	}
+}
+@media (min-width: 960px) {
+	.es-theme-dashboard .es-panel-tabs .es-panel-tab {
+		margin: -16px 0;
+		margin-right: 40px;
+		border-bottom: 4px solid transparent;
+	}
+}
+.es-theme-dashboard .es-panel-tabs .es-panel-tab a {
+	display: block;
+	padding: 14px 16px;
+	color: inherit;
+	text-decoration: none;
+	box-shadow: none;
+}
+@media (min-width: 960px) {
+	.es-theme-dashboard .es-panel-tabs .es-panel-tab a {
+		display: inline-block;
+		padding: 16px 0;
+	}
+}
+.es-theme-dashboard .es-panel-tabs .es-panel-tab-active {
+	background: #f8f9fd;
+	border-radius: 2px;
+}
+@media (min-width: 960px) {
+	.es-theme-dashboard .es-panel-tabs .es-panel-tab-active {
+		background: transparent;
+		border-color: #007CBA;
+		border-radius: 0;
+	}
+}
+.es-theme-dashboard .es-panel-content-tabs .es-panel-tab {
+	display: none;
+}
+.es-theme-dashboard .es-panel-content-tabs .es-panel-tab.es-panel-tab-active {
+	display: block;
+}
+.es-theme-dashboard .es-panel-general {
+	flex: 1;
+	max-width: 100%;
+	width: 100%;
+}
+.es-theme-dashboard .es-panel-support .es-button-wrap {
+	margin-top: auto;
+	padding-top: 1rem;
+}
+.es-theme-dashboard .es-panel-community .es-button-wrap {
+	margin-top: auto;
+	padding-top: 1rem;
+}
+.es-theme-dashboard .es-panel-changelog .es-panel-head {
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+}
+.es-theme-dashboard .es-panel-changelog .es-changelog-link {
+	display: inline-block;
+	margin-top: 1rem;
+	text-decoration: none;
+}
+.es-theme-dashboard .es-panel-changelog .es-changelog-link:hover {
+	text-decoration: underline;
+}
+
+.notice.es-theme-dashboard-notice {
+	margin: 20px 0;
+	border: none;
+	box-shadow: none;
+	padding: 0 !important;
+	background: transparent;
+}
+.notice.es-theme-dashboard-notice + .notice.updated {
+	display: none;
+}
+
+.es-activation .es-activation-postbox {
+	margin-left: -24px;
+	margin-right: -2px;
+	padding-left: 24px;
+	padding-right: 24px;
+}
+.es-activation .es-activation-postbox + .es-activation-postbox {
+	border-top: 1px solid #f0f0f0;
+	margin-top: 2rem;
+	padding-top: 1rem;
+}
+.es-activation .es-theme-license-msg {
+	font-size: 14px;
+	margin-bottom: 0;
+}
+.es-activation .es-theme-license-form {
+	max-width: 864px;
+}
+.es-activation .es-theme-license-updates {
+	display: flex;
+}
+.es-activation .es-theme-license-newsletter {
+	margin: 10px 15px 0 0;
+}
+.es-activation .es-theme-license-supported_until {
+	color: red;
+}
+/*# sourceMappingURL=theme-dashboard.css.map */

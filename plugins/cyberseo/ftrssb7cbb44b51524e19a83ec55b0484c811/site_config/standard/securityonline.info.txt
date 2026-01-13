@@ -1,0 +1,6 @@
+body: //div[contains(concat(' ',normalize-space(@class),' '),' entry-inner ')]
+
+strip_id_or_class: aligncenter
+
+test_url: https://securityonline.info/hacker-attack-on-xplain-swiss-govt-data-exposed-in-report/?expand_article=1
+test_url: https://www.hendryadrian.com/hacker-attack-on-xplain-swiss-govt-data-exposed-in-report/

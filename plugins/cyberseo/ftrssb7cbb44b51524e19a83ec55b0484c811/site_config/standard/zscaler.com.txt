@@ -1,0 +1,13 @@
+body: //div[contains(concat(' ',normalize-space(@class),' '),' node-blog ')]
+
+strip_id_or_class: validation_module_root__MzXE9
+strip_id_or_class: more-blogs
+strip_id_or_class: subscribe-blog
+strip_id_or_class: light_hero_module_root__dky_w
+strip_id_or_class: blog_post_header_module_root__YPrt6
+strip_id_or_class: light_hero_module_root__dky_w 
+strip_id_or_class: lg:absolute sidebar_pinWrapperTop__lwGXq undefined
+
+prune: no
+
+test_url: https://www.zscaler.com/blogs/security-research/tweaks-stealer-targets-roblox-users-through-youtube-and-discord

@@ -1,0 +1,79 @@
+@font-face {
+	font-family: 'es-elementor-icons';
+	src: url('../icon-fonts/elementor-icons.eot?mywnu');
+	src: url('../icon-fonts/elementor-icons.eot?mywnu#iefix') format('embedded-opentype'),
+		url('../icon-fonts/elementor-icons.ttf?mywnu') format('truetype'),
+		url('../icon-fonts/elementor-icons.woff?mywnu') format('woff'),
+		url('../icon-fonts/elementor-icons.svg?mywnu#elementor-icons') format('svg');
+	font-weight: normal;
+	font-style: normal;
+	font-display: block;
+}
+
+[class^="es-icon-el-"],
+[class*=" es-icon-el-"] {
+	/* use !important to prevent issues with browser extensions that change fonts */
+	font-family: 'es-elementor-icons' !important;
+	speak: never;
+	font-style: normal;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	line-height: 1;
+
+	/* Better Font Rendering =========== */
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+}
+
+.es-icon-el-remove:before {
+	content: "\e90e";
+}
+.es-icon-el-outlined_flag:before {
+	content: "\e900";
+}
+.es-icon-el-gps_fixed:before {
+	content: "\e905";
+}
+.es-icon-el-compare:before {
+	content: "\e911";
+}
+.es-icon-el-timer:before {
+	content: "\e90f";
+}
+.es-icon-el-photo_size_select_actual:before {
+	content: "\e901";
+}
+.es-icon-el-wb_iridescent:before {
+	content: "\e90b";
+}
+.es-icon-el-burst_mode:before {
+	content: "\e902";
+}
+.es-icon-el-directions:before {
+	content: "\e913";
+}
+.es-icon-el-local_grocery_store:before {
+	content: "\e914";
+}
+.es-icon-el-assignment:before {
+	content: "\e904";
+}
+.es-icon-el-perm_media:before {
+	content: "\e907";
+}
+.es-icon-el-view_carousel:before {
+	content: "\e908";
+}
+.es-icon-el-view_column:before {
+	content: "\e90d";
+}
+.es-icon-el-view_module:before {
+	content: "\e90a";
+}
+.es-icon-el-vertical_split:before {
+	content: "\e912";
+}
+.es-icon-el-wysiwyg:before {
+	content: "\e90c";
+}
