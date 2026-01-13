@@ -1,3 +1,0 @@
-body: //body
-
-test_url: http://www.jollinger.com/photo/enlargers/guide-to-enlargers.htm

@@ -1,6 +1,0 @@
-body: //div[contains(concat(' ',normalize-space(@class),' '),' article-text-column ')]
-title: //meta[@property="og:title"]/@content
-
-prune: no
-
-test_url: https://newcriterion.com/issues/2020/12/acheiropoieta

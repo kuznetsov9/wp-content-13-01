@@ -1,3 +1,0 @@
-title: //h1[contains(concat(' ',normalize-space(@class),' '),' landr_single_header_title ')]
-body: //div[contains(concat(' ',normalize-space(@class),' '),' entry-content ')]
-test_url: https://blog.landr.com/how-to-eq-vocals/

@@ -1,3 +1,0 @@
-body: //section[contains(concat(' ',normalize-space(@class),' '),' article ')]
-
-test_url: https://stopgame.ru/show/113377/phoenotopia_awakening_review

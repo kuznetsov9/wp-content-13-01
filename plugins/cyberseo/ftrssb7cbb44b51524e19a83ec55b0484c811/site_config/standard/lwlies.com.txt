@@ -1,3 +1,0 @@
-body: //div[contains(concat(' ',normalize-space(@class),' '),' singleColRight ')]
-
-test_url: https://lwlies.com/articles/rope-alfred-hitchcock-masterpiece/

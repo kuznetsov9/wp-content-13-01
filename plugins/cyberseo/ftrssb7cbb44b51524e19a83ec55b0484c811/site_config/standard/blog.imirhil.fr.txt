@@ -1,3 +1,0 @@
-date: //section[@id="post"]//h1//time
-
-test_url: https://blog.imirhil.fr/2019/11/13/first-party-tracker.html

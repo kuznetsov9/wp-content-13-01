@@ -1,3 +1,0 @@
-body: //main
-
-test_url: https://rust-lang-nursery.github.io/rust-cookbook/web/clients/apis.html

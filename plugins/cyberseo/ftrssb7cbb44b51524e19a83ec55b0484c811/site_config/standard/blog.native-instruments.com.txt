@@ -1,5 +1,0 @@
-body: //section[contains(@class, 'post-main')]
-
-prune: no
-
-test_url: https://blog.native-instruments.com/mario-kruselj-a-k-a-evildragon-talks-creativity-kontakt-scripting-and-more/

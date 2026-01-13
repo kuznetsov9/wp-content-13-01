@@ -1,5 +1,0 @@
-body: //div[contains(@class, 'evo-entry-content')]
-
-prune: no
-
-test_url: https://mbk-news.appspot.com/suzhet/ee-imya-budet/

@@ -1,3 +1,0 @@
-body: //div[@id='content']
-strip: //div[@class='standard-form']
-test_url: https://www.openstreetmap.org/user/woodpeck/diary/393947

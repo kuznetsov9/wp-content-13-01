@@ -1,3 +1,0 @@
-strip: //figure/noscript
-
-test_url: https://www.missnumerique.com/blog/la-proxiphotographie-la-solution-nature-pour-exprimer-son-sens-artistique/

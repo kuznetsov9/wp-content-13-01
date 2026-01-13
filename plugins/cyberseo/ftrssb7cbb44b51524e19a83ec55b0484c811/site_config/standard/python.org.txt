@@ -1,3 +1,0 @@
-body: //article[contains(concat(' ',normalize-space(@class),' '),' text ')]
-
-test_url: https://www.python.org/about/success/cog/

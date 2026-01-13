@@ -1,6 +1,0 @@
-body: //div[@id='articlebody']
-
-strip_id_or_class: check_two clear bobbo
-strip_id_or_class: cf note-b
-
-test_url: https://thehackernews.com/2024/03/google-introduces-enhanced-real-time.html

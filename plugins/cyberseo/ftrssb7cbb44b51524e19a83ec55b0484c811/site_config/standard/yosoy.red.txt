@@ -1,4 +1,0 @@
-prune: no
-
-test_url: https://yosoy.red/2021/01/22/politica/
-test_contains: es fundamental entender que los sistemas son creados por humanos

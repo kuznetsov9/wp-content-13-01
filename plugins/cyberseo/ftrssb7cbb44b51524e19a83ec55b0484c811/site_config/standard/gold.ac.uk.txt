@@ -1,3 +1,0 @@
-body: //article//div[contains(concat(' ',normalize-space(@class),' '), ' rich-content ')]
-
-test_url: https://www.gold.ac.uk/news/carbon-neutral-plan/

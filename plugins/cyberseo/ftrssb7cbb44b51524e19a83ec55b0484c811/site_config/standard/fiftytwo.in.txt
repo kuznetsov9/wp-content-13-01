@@ -1,6 +1,0 @@
-body: //div[contains(@class, 'story-wrapper')]
-strip: //svg
-
-prune: no
-
-test_url: https://fiftytwo.in/story/kingdom/

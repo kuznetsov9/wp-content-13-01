@@ -1,5 +1,0 @@
-body: //div[contains(@class, 'content__inner__text')]
-
-prune: no
-
-test_url: https://www.historic-uk.com/HistoryUK/HistoryofEngland/Tragic-Demise-Edward-II/

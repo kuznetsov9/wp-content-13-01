@@ -1,4 +1,0 @@
-strip: //div[@id="relatedblogs"]
-strip: //div[@class="product-card"]
-
-test_url: https://www.miops.com/blogs/news/master-tips-to-take-lightning-photos
